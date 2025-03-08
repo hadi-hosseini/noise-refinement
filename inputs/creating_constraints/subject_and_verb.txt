@@ -1,0 +1,36 @@
+Given a caption: {}
+Specify the subject and verb and type of the verb in the caption as (subject, verb, intransitive) or (subject, verb, object, transitive)
+If there is not any verb in the caption, just say "No verb"
+
+Example:
+Caption: "a brown dog fetching a frisbee in a park"
+1. (dog, fetching, frisbee, transitive)
+
+Example:
+Caption: "a yellow bird sings beautifully in the morning"
+1. (bird, sings, intransitive)
+
+Example:
+Caption: "a black and white cat sits in a white sink"
+1. (cat, sits, intransitive)
+
+Example:
+Caption: "a musician is playing the piano and then smiling at the audience"
+1. (musician, playing, piano, transitive)
+2. (musician, smiling, intransitive)
+
+Example:
+Caption: "a man with a red t-shirt in in a park"
+No verb
+
+Example:
+Caption: "a person is walking with a backpack and exploring a new city"
+1. (person, walking, intransitive)
+2. (person, exploring, city, transitive)
+
+Example:
+Caption: "a child is playing with a toy building set and creating a tower"
+1. (child, playing, toy, transitive)
+2. (child, creating, tower, transitive)
+
+Answer as concisely as possible.

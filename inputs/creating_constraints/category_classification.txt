@@ -1,0 +1,40 @@
+Given a caption: {}
+Specify the caption categories from the following options: spatial, non-spatial, complex, or attribute_binding.
+
+"spatial": Refers to captions that describe the physical location or arrangement of objects in space.
+"non-spatial": Captions that convey information without referencing spatial relationships or locations.
+"complex": Captions that involve intricate or layered descriptions, often combining multiple concepts or entities.
+"attribute_binding": Captions that link specific attributes (like color, size, or shape) to particular entities or objects.
+
+Example:
+Caption: "a brown dog fetching a frisbee in a park"
+1. spatial
+2. non-spatial
+3. complex
+
+Example:
+Caption: "a yellow bird sings beautifully in the morning"
+1. non-spatial
+2. attribute_binding
+
+Example:
+Caption: "a cat is on the top of chair"
+1. spatial
+
+Example:
+Caption: "a yellow car"
+1. attribute_binding
+
+Example:
+Caption: "a triangle bear"
+1. attribute_binding
+
+Example:
+Caption: "a brown backpack and a blue cow"
+1. complex
+
+Example:
+Caption: "a cat is looking a flower"
+1. non-spatial
+
+Answer as concisely as possible.

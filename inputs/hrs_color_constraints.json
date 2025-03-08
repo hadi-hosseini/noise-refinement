@@ -1,0 +1,5680 @@
+{
+    "0": {
+        "prompt": "a red banana and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "1": {
+        "prompt": "a yellow chair and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "2": {
+        "prompt": "a green horse and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "3": {
+        "prompt": "a blue cat and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "4": {
+        "prompt": "a red cat and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "5": {
+        "prompt": "a blue horse and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "6": {
+        "prompt": "a blue cat and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "7": {
+        "prompt": "a orange dog and a green cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "8": {
+        "prompt": "a yellow banana and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "9": {
+        "prompt": "a red banana and a green cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "10": {
+        "prompt": "a green banana and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "11": {
+        "prompt": "a blue airplane and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "12": {
+        "prompt": "a blue chair and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "13": {
+        "prompt": "a yellow chair and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "14": {
+        "prompt": "a blue dog and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "15": {
+        "prompt": "a green chair and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "16": {
+        "prompt": "a blue dog and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "17": {
+        "prompt": "a orange airplane and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "18": {
+        "prompt": "a yellow dog and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "19": {
+        "prompt": "a red airplane and a green dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "20": {
+        "prompt": "a orange car and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "21": {
+        "prompt": "a red chair and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "22": {
+        "prompt": "a green airplane and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "23": {
+        "prompt": "a red chair and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "24": {
+        "prompt": "a orange horse and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "25": {
+        "prompt": "a green dog and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "26": {
+        "prompt": "a red chair and a yellow car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "27": {
+        "prompt": "a yellow airplane and a blue horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "28": {
+        "prompt": "a yellow horse and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "29": {
+        "prompt": "a blue airplane and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "30": {
+        "prompt": "a green car and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "31": {
+        "prompt": "a red cat and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "32": {
+        "prompt": "a yellow chair and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "33": {
+        "prompt": "a yellow cat and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "34": {
+        "prompt": "a orange car and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "35": {
+        "prompt": "a orange person and a green banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "36": {
+        "prompt": "a yellow chair and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "37": {
+        "prompt": "a green banana and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "38": {
+        "prompt": "a blue person and a green car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "39": {
+        "prompt": "a red airplane and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "40": {
+        "prompt": "a orange cat and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "41": {
+        "prompt": "a yellow car and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "42": {
+        "prompt": "a yellow car and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "43": {
+        "prompt": "a yellow banana and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "44": {
+        "prompt": "a red airplane and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "45": {
+        "prompt": "a orange chair and a blue airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "46": {
+        "prompt": "a green chair and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "47": {
+        "prompt": "a green airplane and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "48": {
+        "prompt": "a blue dog and a green airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "49": {
+        "prompt": "a green car and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "50": {
+        "prompt": "a blue airplane and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "51": {
+        "prompt": "a green dog and a red chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "52": {
+        "prompt": "a blue dog and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "53": {
+        "prompt": "a green chair and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "54": {
+        "prompt": "a blue airplane and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "55": {
+        "prompt": "a red cat and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "56": {
+        "prompt": "a red banana and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "57": {
+        "prompt": "a yellow cat and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "58": {
+        "prompt": "a orange horse and a green car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "59": {
+        "prompt": "a red airplane and a green horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "60": {
+        "prompt": "a green dog and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "61": {
+        "prompt": "a red horse and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "62": {
+        "prompt": "a yellow person and a orange cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "63": {
+        "prompt": "a yellow car and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "64": {
+        "prompt": "a green chair and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "65": {
+        "prompt": "a orange horse and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "66": {
+        "prompt": "a green person and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "person"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "67": {
+        "prompt": "a red banana and a blue airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "68": {
+        "prompt": "a green dog and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "69": {
+        "prompt": "a blue car and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "70": {
+        "prompt": "a blue banana and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "71": {
+        "prompt": "a red dog and a green banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "72": {
+        "prompt": "a green dog and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "73": {
+        "prompt": "a orange car and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "74": {
+        "prompt": "a blue dog and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "75": {
+        "prompt": "a red airplane and a yellow cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "76": {
+        "prompt": "a yellow banana and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "77": {
+        "prompt": "a red cat and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "78": {
+        "prompt": "a red banana and a green dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "79": {
+        "prompt": "a orange horse and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "80": {
+        "prompt": "a yellow airplane and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "81": {
+        "prompt": "a red person and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "82": {
+        "prompt": "a orange chair and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "83": {
+        "prompt": "a yellow dog and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "84": {
+        "prompt": "a green banana and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "85": {
+        "prompt": "a blue car and a yellow cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "86": {
+        "prompt": "a red airplane and a green cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "87": {
+        "prompt": "a orange car and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "88": {
+        "prompt": "a green chair and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "89": {
+        "prompt": "a green dog and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "90": {
+        "prompt": "a orange banana and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "91": {
+        "prompt": "a orange banana and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "92": {
+        "prompt": "a blue cat and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "93": {
+        "prompt": "a red chair and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "94": {
+        "prompt": "a yellow chair and a blue airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "95": {
+        "prompt": "a red banana and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "96": {
+        "prompt": "a red horse and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "97": {
+        "prompt": "a yellow horse and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "98": {
+        "prompt": "a yellow banana and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "99": {
+        "prompt": "a red person and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "100": {
+        "prompt": "a red banana and a blue airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "101": {
+        "prompt": "a yellow chair and a orange horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "102": {
+        "prompt": "a green banana and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "103": {
+        "prompt": "a yellow chair and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "104": {
+        "prompt": "a red cat and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "105": {
+        "prompt": "a orange cat and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "106": {
+        "prompt": "a yellow banana and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "107": {
+        "prompt": "a blue chair and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "108": {
+        "prompt": "a red horse and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "109": {
+        "prompt": "a red dog and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "110": {
+        "prompt": "a yellow horse and a red chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "111": {
+        "prompt": "a yellow cat and a blue horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "112": {
+        "prompt": "a yellow car and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "113": {
+        "prompt": "a yellow dog and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "114": {
+        "prompt": "a green banana and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "115": {
+        "prompt": "a red dog and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "116": {
+        "prompt": "a green airplane and a yellow cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "117": {
+        "prompt": "a red chair and a green horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "118": {
+        "prompt": "a blue airplane and a green car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "119": {
+        "prompt": "a yellow airplane and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "120": {
+        "prompt": "a yellow dog and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "121": {
+        "prompt": "a orange dog and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "122": {
+        "prompt": "a green chair and a blue airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "123": {
+        "prompt": "a red horse and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "124": {
+        "prompt": "a yellow airplane and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "125": {
+        "prompt": "a yellow person and a green horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "126": {
+        "prompt": "a green chair and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "127": {
+        "prompt": "a orange cat and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "128": {
+        "prompt": "a green car and a blue horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "129": {
+        "prompt": "a red dog and a blue horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "130": {
+        "prompt": "a red banana and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "131": {
+        "prompt": "a red horse and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "132": {
+        "prompt": "a green horse and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "133": {
+        "prompt": "a red horse and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "134": {
+        "prompt": "a yellow banana and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "135": {
+        "prompt": "a red banana and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "136": {
+        "prompt": "a orange chair and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "137": {
+        "prompt": "a green banana and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "138": {
+        "prompt": "a green chair and a yellow car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "139": {
+        "prompt": "a red cat and a green dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "140": {
+        "prompt": "a red car and a green cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "141": {
+        "prompt": "a blue chair and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "142": {
+        "prompt": "a green dog and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "143": {
+        "prompt": "a green horse and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "144": {
+        "prompt": "a green banana and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "145": {
+        "prompt": "a red dog and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "146": {
+        "prompt": "a red dog and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "147": {
+        "prompt": "a green cat and a red dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "148": {
+        "prompt": "a red banana and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "149": {
+        "prompt": "a yellow car and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "150": {
+        "prompt": "a orange dog and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "151": {
+        "prompt": "a orange airplane and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "152": {
+        "prompt": "a blue dog and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "153": {
+        "prompt": "a yellow cat and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "154": {
+        "prompt": "a yellow airplane and a blue banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "155": {
+        "prompt": "a red horse and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "156": {
+        "prompt": "a blue horse and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "157": {
+        "prompt": "a yellow airplane and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "158": {
+        "prompt": "a blue dog and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "159": {
+        "prompt": "a orange person and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "160": {
+        "prompt": "a orange car and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "161": {
+        "prompt": "a orange person and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "162": {
+        "prompt": "a yellow dog and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "163": {
+        "prompt": "a blue dog and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "164": {
+        "prompt": "a blue banana and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "165": {
+        "prompt": "a red banana and a green dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "166": {
+        "prompt": "a blue person and a red chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "167": {
+        "prompt": "a green cat, a red horse and a blue airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "168": {
+        "prompt": "a blue chair, a green cat and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "169": {
+        "prompt": "a yellow person, a green cat and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "170": {
+        "prompt": "a yellow chair, a red dog and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "171": {
+        "prompt": "a blue horse, a red chair and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "172": {
+        "prompt": "a blue car, a red airplane and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "173": {
+        "prompt": "a red banana, a blue dog and a yellow car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "174": {
+        "prompt": "a blue airplane, a red horse and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "175": {
+        "prompt": "a blue chair, a orange cat and a green banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "176": {
+        "prompt": "a blue person, a red car and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "177": {
+        "prompt": "a blue banana, a red person and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "178": {
+        "prompt": "a green banana, a orange person and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "179": {
+        "prompt": "a yellow person, a green cat and a blue banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "180": {
+        "prompt": "a red cat, a orange horse and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "181": {
+        "prompt": "a red horse, a yellow person and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "182": {
+        "prompt": "a blue banana, a green cat and a orange horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "183": {
+        "prompt": "a green car, a red dog and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "184": {
+        "prompt": "a blue person, a orange horse and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "185": {
+        "prompt": "a red horse, a orange banana and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "186": {
+        "prompt": "a orange airplane, a red horse and a green dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "187": {
+        "prompt": "a blue horse, a green person and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "188": {
+        "prompt": "a yellow chair, a blue cat and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "189": {
+        "prompt": "a red chair, a orange cat and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "190": {
+        "prompt": "a yellow airplane, a orange cat and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "191": {
+        "prompt": "a red car, a green horse and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "192": {
+        "prompt": "a blue banana, a red car and a orange cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "193": {
+        "prompt": "a green chair, a blue airplane and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "194": {
+        "prompt": "a yellow person, a red horse and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "195": {
+        "prompt": "a orange chair, a yellow car and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "196": {
+        "prompt": "a red person, a green dog and a blue banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "197": {
+        "prompt": "a green person, a blue banana and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "198": {
+        "prompt": "a orange person, a red banana and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "199": {
+        "prompt": "a blue banana, a orange cat and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "200": {
+        "prompt": "a yellow car, a green cat and a orange chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "201": {
+        "prompt": "a yellow chair, a red person and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "202": {
+        "prompt": "a red person, a yellow car and a green horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "203": {
+        "prompt": "a blue car, a yellow cat and a green banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "204": {
+        "prompt": "a red dog, a blue cat and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "205": {
+        "prompt": "a blue car, a yellow banana and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "206": {
+        "prompt": "a orange dog, a blue chair and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "207": {
+        "prompt": "a green horse, a blue airplane and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "208": {
+        "prompt": "a yellow person, a blue car and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "209": {
+        "prompt": "a orange airplane, a red car and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "210": {
+        "prompt": "a green cat, a yellow car and a red dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "211": {
+        "prompt": "a red person, a green car and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "212": {
+        "prompt": "a red airplane, a orange chair and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "213": {
+        "prompt": "a yellow car, a blue dog and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "214": {
+        "prompt": "a blue horse, a green dog and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "215": {
+        "prompt": "a blue chair, a orange dog and a yellow car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "216": {
+        "prompt": "a blue cat, a red airplane and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "217": {
+        "prompt": "a blue cat, a orange chair and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "218": {
+        "prompt": "a blue airplane, a red chair and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "219": {
+        "prompt": "a red cat, a blue airplane and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "220": {
+        "prompt": "a blue person, a green car and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "221": {
+        "prompt": "a yellow cat, a green airplane and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "222": {
+        "prompt": "a red person, a blue cat and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "223": {
+        "prompt": "a green cat, a blue banana and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "224": {
+        "prompt": "a blue person, a orange banana and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "225": {
+        "prompt": "a red cat, a green dog and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "226": {
+        "prompt": "a red car, a blue horse and a green airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "227": {
+        "prompt": "a blue dog, a red car and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "228": {
+        "prompt": "a orange airplane, a red dog and a green car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "229": {
+        "prompt": "a green dog, a orange airplane and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "230": {
+        "prompt": "a green banana, a blue chair and a red dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "231": {
+        "prompt": "a red chair, a yellow dog and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "232": {
+        "prompt": "a green chair, a blue car and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "233": {
+        "prompt": "a orange banana, a blue horse and a red chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "234": {
+        "prompt": "a yellow horse, a blue airplane and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "235": {
+        "prompt": "a blue banana, a orange person and a red chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "236": {
+        "prompt": "a yellow chair, a blue banana and a green cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "237": {
+        "prompt": "a red dog, a orange banana and a blue airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "238": {
+        "prompt": "a orange dog, a green horse and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "239": {
+        "prompt": "a orange airplane, a red chair and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "240": {
+        "prompt": "a orange chair, a blue person and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "241": {
+        "prompt": "a blue chair, a orange car and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "242": {
+        "prompt": "a orange banana, a red horse and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "243": {
+        "prompt": "a blue cat, a yellow airplane and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "244": {
+        "prompt": "a yellow airplane, a red banana and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "245": {
+        "prompt": "a orange cat, a green chair and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "246": {
+        "prompt": "a red chair, a green airplane and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "247": {
+        "prompt": "a yellow airplane, a red person and a green horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "248": {
+        "prompt": "a orange person, a blue banana and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "249": {
+        "prompt": "a orange dog, a yellow car and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "250": {
+        "prompt": "a green horse, a yellow dog and a blue banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "251": {
+        "prompt": "a yellow car, a green dog and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "252": {
+        "prompt": "a orange cat, a red horse and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "253": {
+        "prompt": "a green car, a orange dog and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "254": {
+        "prompt": "a yellow cat, a blue banana and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "255": {
+        "prompt": "a green car, a orange person and a blue horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "256": {
+        "prompt": "a green banana, a yellow dog and a orange cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "257": {
+        "prompt": "a blue cat, a green car and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "258": {
+        "prompt": "a yellow banana, a blue dog and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "259": {
+        "prompt": "a orange car, a green horse and a yellow cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "260": {
+        "prompt": "a yellow car, a red horse and a orange cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "261": {
+        "prompt": "a orange banana, a blue airplane and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "262": {
+        "prompt": "a blue cat, a orange chair and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "263": {
+        "prompt": "a green cat, a red car and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "264": {
+        "prompt": "a red banana, a green cat and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "265": {
+        "prompt": "a orange cat, a red dog and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "266": {
+        "prompt": "a green chair, a orange person and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "267": {
+        "prompt": "a red horse, a blue chair and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "268": {
+        "prompt": "a yellow horse, a orange car and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "269": {
+        "prompt": "a green horse, a red dog and a orange cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "270": {
+        "prompt": "a red airplane, a green cat and a blue horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "271": {
+        "prompt": "a orange banana, a red airplane and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "272": {
+        "prompt": "a green chair, a orange horse and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "273": {
+        "prompt": "a orange dog, a red horse and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "274": {
+        "prompt": "a red person, a blue cat and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "275": {
+        "prompt": "a orange chair, a green cat and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "276": {
+        "prompt": "a blue chair, a orange banana and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "277": {
+        "prompt": "a green car, a red cat and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "278": {
+        "prompt": "a orange chair, a yellow person and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "279": {
+        "prompt": "a yellow chair, a green cat and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "280": {
+        "prompt": "a green cat, a red chair and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "281": {
+        "prompt": "a yellow horse, a blue dog and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "282": {
+        "prompt": "a red chair, a green person and a yellow cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "283": {
+        "prompt": "a orange chair, a blue car and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "284": {
+        "prompt": "a orange person, a green horse and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "285": {
+        "prompt": "a orange banana, a yellow cat and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "286": {
+        "prompt": "a red chair, a green banana and a blue dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "287": {
+        "prompt": "a yellow chair, a blue dog and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "288": {
+        "prompt": "a green cat, a red chair and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "289": {
+        "prompt": "a orange chair, a green person and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "290": {
+        "prompt": "a red cat, a orange airplane and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "291": {
+        "prompt": "a red chair, a orange airplane and a yellow dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "292": {
+        "prompt": "a green airplane, a blue dog and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "293": {
+        "prompt": "a green car, a blue horse and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "294": {
+        "prompt": "a blue banana, a orange car and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "295": {
+        "prompt": "a yellow chair, a orange banana and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "296": {
+        "prompt": "a yellow person, a red cat and a blue banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "297": {
+        "prompt": "a green dog, a blue banana and a yellow airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "298": {
+        "prompt": "a green cat, a yellow horse and a orange banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "299": {
+        "prompt": "a green car, a orange cat and a red banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "300": {
+        "prompt": "a yellow airplane, a orange cat and a green banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "green",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "301": {
+        "prompt": "a yellow airplane, a green dog and a orange person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "302": {
+        "prompt": "a blue banana, a green person and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "303": {
+        "prompt": "a blue person, a green chair and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "304": {
+        "prompt": "a blue person, a orange cat and a red airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "305": {
+        "prompt": "a blue horse, a red cat and a orange car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "306": {
+        "prompt": "a blue horse, a green airplane and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "307": {
+        "prompt": "a yellow chair, a red horse and a blue cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "308": {
+        "prompt": "a red cat, a blue car and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "309": {
+        "prompt": "a yellow airplane, a orange horse and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "310": {
+        "prompt": "a orange horse, a green cat and a red person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "311": {
+        "prompt": "a red horse, a orange airplane and a green person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "312": {
+        "prompt": "a orange car, a red horse and a yellow chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "313": {
+        "prompt": "a red banana, a blue dog and a green horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "314": {
+        "prompt": "a yellow car, a red cat and a blue banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "315": {
+        "prompt": "a blue airplane, a green horse and a yellow person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "316": {
+        "prompt": "a green banana, a red person and a orange airplane.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            }
+        ],
+        "spatial": []
+    },
+    "317": {
+        "prompt": "a yellow airplane, a red chair and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "red",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "318": {
+        "prompt": "a red banana, a orange airplane and a green car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "orange",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "319": {
+        "prompt": "a yellow chair, a blue horse and a red cat.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "chair"
+            },
+            {
+                "adjective": "blue",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            }
+        ],
+        "spatial": []
+    },
+    "320": {
+        "prompt": "a yellow person, a orange chair and a red dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "person"
+            },
+            {
+                "adjective": "orange",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "321": {
+        "prompt": "a yellow car, a orange horse and a green chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "green",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "322": {
+        "prompt": "a yellow dog, a orange horse and a red car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "323": {
+        "prompt": "a yellow car, a orange cat and a red horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "car"
+            },
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "red",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "324": {
+        "prompt": "a red person, a blue banana and a green horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "325": {
+        "prompt": "a orange cat, a blue person and a green dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "326": {
+        "prompt": "a blue banana, a green car and a yellow horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "banana"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "327": {
+        "prompt": "a blue dog, a red cat and a orange horse.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "orange",
+                "entity": "horse"
+            }
+        ],
+        "spatial": []
+    },
+    "328": {
+        "prompt": "a red airplane, a yellow dog and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "airplane"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "dog"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "329": {
+        "prompt": "a red person, a blue chair and a orange dog.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            },
+            {
+                "adjective": "orange",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "330": {
+        "prompt": "a red person, a green horse and a blue car.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "person"
+            },
+            {
+                "adjective": "green",
+                "entity": "horse"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "331": {
+        "prompt": "a orange person, a red dog and a yellow banana.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "person"
+            },
+            {
+                "adjective": "red",
+                "entity": "dog"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "banana"
+            }
+        ],
+        "spatial": []
+    },
+    "332": {
+        "prompt": "a yellow horse, a red banana and a blue person.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "horse"
+            },
+            {
+                "adjective": "red",
+                "entity": "banana"
+            },
+            {
+                "adjective": "blue",
+                "entity": "person"
+            }
+        ],
+        "spatial": []
+    },
+    "333": {
+        "prompt": "a orange car, a red cat and a blue chair.",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "orange",
+                "entity": "car"
+            },
+            {
+                "adjective": "red",
+                "entity": "cat"
+            },
+            {
+                "adjective": "blue",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    }
+}

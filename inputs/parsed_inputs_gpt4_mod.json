@@ -1,0 +1,3921 @@
+[
+    {
+        "prompt": "a brown backpack and a blue cow",
+        "parsed_input": {
+            "assertions": [
+                "there is a brown backpack in the image.",
+                "there is a blue cow in the image."
+            ],
+            "questions": [
+                "is there a brown backpack in the image?",
+                "is there a blue cow in the image?"
+            ],
+            "entities": [
+                "backpack",
+                "cow"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a brown backpack] and [a blue cow]",
+        "id": 0
+    },
+    {
+        "prompt": "a brown bear and a red book",
+        "parsed_input": {
+            "assertions": [
+                "there is a brown bear in the image.",
+                "there is a red book in the image."
+            ],
+            "questions": [
+                "is there a brown bear in the image?",
+                "is there a red book in the image?"
+            ],
+            "entities": [
+                "bear",
+                "book"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a brown bear] and [a red book]",
+        "id": 1
+    },
+    {
+        "prompt": "a red bear and a brown book",
+        "parsed_input": {
+            "assertions": [
+                "there is a red bear in the image.",
+                "there is a brown book in the image."
+            ],
+            "questions": [
+                "is there a red bear in the image?",
+                "is there a brown book in the image?"
+            ],
+            "entities": [
+                "bear",
+                "book"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a red bear] and [a brown book]",
+        "id": 2
+    },
+    {
+        "prompt": "a green banana and a brown dog",
+        "parsed_input": {
+            "assertions": [
+                "there is a green banana in the image.",
+                "there is a brown dog in the image."
+            ],
+            "questions": [
+                "is there a green banana in the image?",
+                "is there a brown dog in the image?"
+            ],
+            "entities": [
+                "banana",
+                "dog"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a green banana and a brown dog.\nDecomposable-Caption: [a green banana] and [a brown dog]",
+        "id": 3
+    },
+    {
+        "prompt": "a blue cake and a red suitcase",
+        "parsed_input": {
+            "assertions": [
+                "there is a blue cake in the image.",
+                "there is a red suitcase in the image."
+            ],
+            "questions": [
+                "is there a blue cake in the image?",
+                "is there a red suitcase in the image?"
+            ],
+            "entities": [
+                "cake",
+                "suitcase"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a blue cake and a red suitcase.\nDecomposable-Caption: [a blue cake] and [a red suitcase]",
+        "id": 4
+    },
+    {
+        "prompt": "a green banana and a red suitcase",
+        "parsed_input": {
+            "assertions": [
+                "there is a green banana in the image.",
+                "there is a red suitcase in the image."
+            ],
+            "questions": [
+                "is there a green banana in the image?",
+                "is there a red suitcase in the image?"
+            ],
+            "entities": [
+                "banana",
+                "suitcase"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a green banana] and [a red suitcase]",
+        "id": 5
+    },
+    {
+        "prompt": "a brown sheep and a blue vase",
+        "parsed_input": {
+            "assertions": [
+                "there is a brown sheep in the image.",
+                "there is a blue vase in the image."
+            ],
+            "questions": [
+                "is there a brown sheep in the image?",
+                "is there a blue vase in the image?"
+            ],
+            "entities": [
+                "sheep",
+                "vase"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a brown sheep] and [a blue vase]",
+        "id": 6
+    },
+    {
+        "prompt": "a brown cat and a gold clock",
+        "parsed_input": {
+            "assertions": [
+                "there is a brown cat in the image.",
+                "there is a gold clock in the image."
+            ],
+            "questions": [
+                "is there a brown cat in the image?",
+                "is there a gold clock in the image?"
+            ],
+            "entities": [
+                "cat",
+                "clock"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a brown cat and a gold clock.\nDecomposable-Caption: [a brown cat] and [a gold clock]",
+        "id": 7
+    },
+    {
+        "prompt": "a brown dog and a red orange",
+        "parsed_input": {
+            "assertions": [
+                "there is a brown dog in the image.",
+                "there is a red orange in the image."
+            ],
+            "questions": [
+                "is there a brown dog in the image?",
+                "is there a red orange in the image?"
+            ],
+            "entities": [
+                "dog",
+                "orange"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a brown dog] and [a red orange]",
+        "id": 8
+    },
+    {
+        "prompt": "a blue bear and a brown vase",
+        "parsed_input": {
+            "assertions": [
+                "there is a blue bear in the image.",
+                "there is a brown vase in the image."
+            ],
+            "questions": [
+                "is there a blue bear in the image?",
+                "is there a brown vase in the image?"
+            ],
+            "entities": [
+                "bear",
+                "vase"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a blue bear] and [a brown vase]",
+        "id": 9
+    },
+    {
+        "prompt": "a red backpack and a blue car",
+        "parsed_input": {
+            "assertions": [
+                "there is a red backpack in the image.",
+                "there is a blue car in the image."
+            ],
+            "questions": [
+                "is there a red backpack in the image?",
+                "is there a blue car in the image?"
+            ],
+            "entities": [
+                "backpack",
+                "car"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a red backpack and a blue car.\nDecomposable-Caption: [a red backpack] and [a blue car]",
+        "id": 10
+    },
+    {
+        "prompt": "a blue giraffe and a brown vase",
+        "parsed_input": {
+            "assertions": [
+                "there is a blue giraffe in the image.",
+                "there is a brown vase in the image."
+            ],
+            "questions": [
+                "is there a blue giraffe in the image?",
+                "is there a brown vase in the image?"
+            ],
+            "entities": [
+                "giraffe",
+                "vase"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a blue giraffe and a brown vase.\nDecomposable-Caption: [a blue giraffe] and [a brown vase]",
+        "id": 11
+    },
+    {
+        "prompt": "a brown chair and a red sheep",
+        "parsed_input": {
+            "assertions": [
+                "there is a brown chair in the image.",
+                "there is a red sheep in the image."
+            ],
+            "questions": [
+                "is there a brown chair in the image?",
+                "is there a red sheep in the image?"
+            ],
+            "entities": [
+                "chair",
+                "sheep"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a brown chair and a red sheep.\nDecomposable-Caption: [a brown chair] and [a red sheep]",
+        "id": 12
+    },
+    {
+        "prompt": "a brown acorn and a green leaf",
+        "parsed_input": {
+            "assertions": [
+                "there is a brown acorn in the image.",
+                "there is a green leaf in the image."
+            ],
+            "questions": [
+                "is there a brown acorn in the image?",
+                "is there a green leaf in the image?"
+            ],
+            "entities": [
+                "acorn",
+                "leaf"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a brown acorn and a green leaf.\nDecomposable-Caption: [a brown acorn] and [a green leaf]",
+        "id": 13
+    },
+    {
+        "prompt": "a black cat and a white paw",
+        "parsed_input": {
+            "assertions": [
+                "there is a black cat in the image.",
+                "there is a white paw in the image."
+            ],
+            "questions": [
+                "is there a black cat in the image?",
+                "is there a white paw in the image?"
+            ],
+            "entities": [
+                "cat",
+                "paw"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a black cat and a white paw.\nDecomposable-Caption: [a black cat] and [a white paw]",
+        "id": 14
+    },
+    {
+        "prompt": "a green tree and a brown grass",
+        "parsed_input": {
+            "assertions": [
+                "there is a green tree in the image.",
+                "there is brown grass in the image."
+            ],
+            "questions": [
+                "is there a green tree in the image?",
+                "is there brown grass in the image?"
+            ],
+            "entities": [
+                "tree",
+                "grass"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a green tree and a brown grass.\nDecomposable-Caption: [a green tree] and [a brown grass]",
+        "id": 15
+    },
+    {
+        "prompt": "a white moon and a black sky",
+        "parsed_input": {
+            "assertions": [
+                "there is a white moon in the image.",
+                "there is a black sky in the image."
+            ],
+            "questions": [
+                "is there a white moon in the image?",
+                "is there a black sky in the image?"
+            ],
+            "entities": [
+                "moon",
+                "sky"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a white moon and a black sky.\nDecomposable-Caption: [a white moon] and [a black sky]",
+        "id": 16
+    },
+    {
+        "prompt": "a red school bus and a green bag",
+        "parsed_input": {
+            "assertions": [
+                "there is a red school bus in the image.",
+                "there is a green bag in the image."
+            ],
+            "questions": [
+                "is there a red school bus in the image?",
+                "is there a green bag in the image?"
+            ],
+            "entities": [
+                "school bus",
+                "bag"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a red school bus] and [a green bag]",
+        "id": 17
+    },
+    {
+        "prompt": "a yellow rabbit and a red rat",
+        "parsed_input": {
+            "assertions": [
+                "there is a yellow rabbit in the image.",
+                "there is a red rat in the image."
+            ],
+            "questions": [
+                "is there a yellow rabbit in the image?",
+                "is there a red rat in the image?"
+            ],
+            "entities": [
+                "rabbit",
+                "rat"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a yellow rabbit and a red rat.\nDecomposable-Caption: [a yellow rabbit] and [a red rat]",
+        "id": 18
+    },
+    {
+        "prompt": "a small white kitchen with brown wood floor",
+        "parsed_input": {
+            "assertions": [
+                "there is a small kitchen in the image.",
+                "the kitchen is white.",
+                "the kitchen has a brown wood floor."
+            ],
+            "questions": [
+                "is there a small kitchen in the image?",
+                "is the kitchen white?",
+                "does the kitchen have a brown wood floor?"
+            ],
+            "entities": [
+                "kitchen",
+                "floor"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: a small white kitchen with brown wood floor.\nDecomposable-Caption: [a small kitchen] [white] [with brown wood floor]",
+        "id": 19
+    },
+    {
+        "prompt": "bathroom scene with white background and tan accents",
+        "parsed_input": {
+            "assertions": [
+                "the image shows a bathroom scene.",
+                "the background of the image is white.",
+                "there are tan accents in the image."
+            ],
+            "questions": [
+                "does the image show a bathroom scene?",
+                "is the background of the image white?",
+                "are there tan accents in the image?"
+            ],
+            "entities": [
+                "bathroom scene",
+                "white background",
+                "tan accents"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [bathroom scene] with [white background] and [tan accents]",
+        "id": 20
+    },
+    {
+        "prompt": "a bathroom with green tile and a red shower curtain",
+        "parsed_input": {
+            "assertions": [
+                "there is a bathroom in the image.",
+                "the bathroom has green tile.",
+                "there is a red shower curtain in the bathroom."
+            ],
+            "questions": [
+                "is there a bathroom in the image?",
+                "does the bathroom have green tile?",
+                "is there a red shower curtain in the bathroom?"
+            ],
+            "entities": [
+                "bathroom",
+                "green tile",
+                "red shower curtain"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a bathroom with green tile and a red shower curtain.\nDecomposable-Caption: [a bathroom] [with green tile] [and a red shower curtain]",
+        "id": 21
+    },
+    {
+        "prompt": "a black and white cat sits in a white sink",
+        "parsed_input": {
+            "assertions": [
+                "there is a black and white cat in the image.",
+                "the cat is sitting.",
+                "the cat is in a white sink."
+            ],
+            "questions": [
+                "is there a black and white cat in the image?",
+                "is the cat sitting?",
+                "is the cat in a white sink?"
+            ],
+            "entities": [
+                "cat",
+                "sink"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a black and white cat] [sits] [in a white sink]",
+        "id": 22
+    },
+    {
+        "prompt": "a blue scooter is parked near a curb in front of a green vintage car",
+        "parsed_input": {
+            "assertions": [
+                "there is a blue scooter in the image.",
+                "the scooter is parked near a curb.",
+                "there is a green vintage car in the image."
+            ],
+            "questions": [
+                "is there a blue scooter in the image?",
+                "is the scooter parked near a curb?",
+                "is there a green vintage car in the image?"
+            ],
+            "entities": [
+                "scooter",
+                "curb",
+                "car"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a blue scooter is parked near a curb in front of a green vintage car.\nDecomposable-Caption: [a blue scooter] [is parked near a curb] [in front of a green vintage car]",
+        "id": 23
+    },
+    {
+        "prompt": "the white and yellow clock with a red roof reads 11",
+        "parsed_input": {
+            "assertions": [
+                "there is a white and yellow clock in the image.",
+                "the clock has a red roof.",
+                "the clock reads 11."
+            ],
+            "questions": [
+                "is there a white and yellow clock in the image?",
+                "does the clock have a red roof?",
+                "does the clock read 11?"
+            ],
+            "entities": [
+                "clock",
+                "roof"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: The white and yellow clock with a red roof reads 11.\nDecomposable-Caption: [The white and yellow clock] [with a red roof] [reads 11].",
+        "id": 24
+    },
+    {
+        "prompt": "a diamond pendant and a round locket",
+        "parsed_input": {
+            "assertions": [
+                "there is a diamond pendant in the image.",
+                "there is a round locket in the image."
+            ],
+            "questions": [
+                "is there a diamond pendant in the image?",
+                "is there a round locket in the image?"
+            ],
+            "entities": [
+                "diamond pendant",
+                "round locket"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a diamond pendant and a round locket.\nDecomposable-Caption: [a diamond pendant] and [a round locket]",
+        "id": 25
+    },
+    {
+        "prompt": "an oval sink and a rectangular mirror",
+        "parsed_input": {
+            "assertions": [
+                "there is an oval sink in the image.",
+                "there is a rectangular mirror in the image."
+            ],
+            "questions": [
+                "is there an oval sink in the image?",
+                "is there a rectangular mirror in the image?"
+            ],
+            "entities": [
+                "sink",
+                "mirror"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [an oval sink] and [a rectangular mirror]",
+        "id": 26
+    },
+    {
+        "prompt": "an oval coffee table and a rectangular rug",
+        "parsed_input": {
+            "assertions": [
+                "there is an oval coffee table in the image.",
+                "there is a rectangular rug in the image."
+            ],
+            "questions": [
+                "is there an oval coffee table in the image?",
+                "is there a rectangular rug in the image?"
+            ],
+            "entities": [
+                "coffee table",
+                "rug"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [an oval coffee table] and [a rectangular rug]",
+        "id": 27
+    },
+    {
+        "prompt": "a cubic block and a cylindrical container of hand cream",
+        "parsed_input": {
+            "assertions": [
+                "there is a cubic block in the image.",
+                "there is a cylindrical container in the image.",
+                "the container is of hand cream."
+            ],
+            "questions": [
+                "is there a cubic block in the image?",
+                "is there a cylindrical container in the image?",
+                "is the container of hand cream?"
+            ],
+            "entities": [
+                "cubic block",
+                "cylindrical container",
+                "hand cream"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: a cubic block and a cylindrical container of hand cream.\nDecomposable-Caption: [a cubic block] and [a cylindrical container] [of hand cream]",
+        "id": 28
+    },
+    {
+        "prompt": "a big hippopotamus and a small mouse",
+        "parsed_input": {
+            "assertions": [
+                "there is a big hippopotamus in the image.",
+                "there is a small mouse in the image."
+            ],
+            "questions": [
+                "is there a big hippopotamus in the image?",
+                "is there a small mouse in the image?"
+            ],
+            "entities": [
+                "hippopotamus",
+                "mouse"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a big hippopotamus] and [a small mouse]",
+        "id": 29
+    },
+    {
+        "prompt": "a rectangular mirror and a spherical magnifying glass",
+        "parsed_input": {
+            "assertions": [
+                "there is a rectangular mirror in the image.",
+                "there is a spherical magnifying glass in the image."
+            ],
+            "questions": [
+                "is there a rectangular mirror in the image?",
+                "is there a spherical magnifying glass in the image?"
+            ],
+            "entities": [
+                "mirror",
+                "magnifying glass"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rectangular mirror and a spherical magnifying glass.\nDecomposable-Caption: [a rectangular mirror] and [a spherical magnifying glass]",
+        "id": 30
+    },
+    {
+        "prompt": "a round pizza and a rectangular piece of lasagna",
+        "parsed_input": {
+            "assertions": [
+                "there is a round pizza in the image.",
+                "there is a rectangular piece of lasagna in the image."
+            ],
+            "questions": [
+                "is there a round pizza in the image?",
+                "is there a rectangular piece of lasagna in the image?"
+            ],
+            "entities": [
+                "pizza",
+                "lasagna"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a round pizza and a rectangular piece of lasagna.\nDecomposable-Caption: [a round pizza] and [a rectangular piece of lasagna]",
+        "id": 31
+    },
+    {
+        "prompt": "a big tiger and a small kitten",
+        "parsed_input": {
+            "assertions": [
+                "there is a big tiger in the image.",
+                "there is a small kitten in the image."
+            ],
+            "questions": [
+                "is there a big tiger in the image?",
+                "is there a small kitten in the image?"
+            ],
+            "entities": [
+                "tiger",
+                "kitten"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a big tiger and a small kitten.\nDecomposable-Caption: [a big tiger] and [a small kitten]",
+        "id": 32
+    },
+    {
+        "prompt": "an oblong carrot and a teardrop peach",
+        "parsed_input": {
+            "assertions": [
+                "there is an oblong carrot in the image.",
+                "there is a teardrop peach in the image."
+            ],
+            "questions": [
+                "is there an oblong carrot in the image?",
+                "is there a teardrop peach in the image?"
+            ],
+            "entities": [
+                "carrot",
+                "peach"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [an oblong carrot] and [a teardrop peach]",
+        "id": 33
+    },
+    {
+        "prompt": "a big bear and a small rabbit",
+        "parsed_input": {
+            "assertions": [
+                "there is a big bear in the image.",
+                "there is a small rabbit in the image."
+            ],
+            "questions": [
+                "is there a big bear in the image?",
+                "is there a small rabbit in the image?"
+            ],
+            "entities": [
+                "bear",
+                "rabbit"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a big bear and a small rabbit.\nDecomposable-Caption: [a big bear] and [a small rabbit]",
+        "id": 34
+    },
+    {
+        "prompt": "a cubic block and a cylindrical container of markers",
+        "parsed_input": {
+            "assertions": [
+                "there is a cubic block in the image.",
+                "there is a cylindrical container of markers in the image."
+            ],
+            "questions": [
+                "is there a cubic block in the image?",
+                "is there a cylindrical container of markers in the image?"
+            ],
+            "entities": [
+                "cubic block",
+                "cylindrical container of markers"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a cubic block] and [a cylindrical container of markers]",
+        "id": 35
+    },
+    {
+        "prompt": "a circular pendant light and a triangular wall hook",
+        "parsed_input": {
+            "assertions": [
+                "there is a circular pendant light in the image.",
+                "there is a triangular wall hook in the image."
+            ],
+            "questions": [
+                "is there a circular pendant light in the image?",
+                "is there a triangular wall hook in the image?"
+            ],
+            "entities": [
+                "pendant light",
+                "wall hook"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a circular pendant light and a triangular wall hook.\nDecomposable-Caption: [a circular pendant light] and [a triangular wall hook]",
+        "id": 36
+    },
+    {
+        "prompt": "a round bagel and a square toaster",
+        "parsed_input": {
+            "assertions": [
+                "there is a round bagel in the image.",
+                "there is a square toaster in the image."
+            ],
+            "questions": [
+                "is there a round bagel in the image?",
+                "is there a square toaster in the image?"
+            ],
+            "entities": [
+                "bagel",
+                "toaster"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a round bagel and a square toaster.\nDecomposable-Caption: [a round bagel] and [a square toaster]",
+        "id": 37
+    },
+    {
+        "prompt": "a small stop sign and a pyramidal paperweight",
+        "parsed_input": {
+            "assertions": [
+                "there is a small stop sign in the image.",
+                "there is a pyramidal paperweight in the image."
+            ],
+            "questions": [
+                "is there a small stop sign in the image?",
+                "is there a pyramidal paperweight in the image?"
+            ],
+            "entities": [
+                "stop sign",
+                "paperweight"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a small stop sign and a pyramidal paperweight.\nDecomposable-Caption: [a small stop sign] and [a pyramidal paperweight]",
+        "id": 38
+    },
+    {
+        "prompt": "an oval bathtub and a rectangular soap dish",
+        "parsed_input": {
+            "assertions": [
+                "there is an oval bathtub in the image.",
+                "there is a rectangular soap dish in the image."
+            ],
+            "questions": [
+                "is there an oval bathtub in the image?",
+                "is there a rectangular soap dish in the image?"
+            ],
+            "entities": [
+                "bathtub",
+                "soap dish"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: an oval bathtub and a rectangular soap dish.\nDecomposable-Caption: [an oval bathtub] and [a rectangular soap dish]",
+        "id": 39
+    },
+    {
+        "prompt": "an oval platter and a rectangular tablecloth",
+        "parsed_input": {
+            "assertions": [
+                "there is an oval platter in the image.",
+                "there is a rectangular tablecloth in the image."
+            ],
+            "questions": [
+                "is there an oval platter in the image?",
+                "is there a rectangular tablecloth in the image?"
+            ],
+            "entities": [
+                "oval platter",
+                "rectangular tablecloth"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: an oval platter and a rectangular tablecloth.\nDecomposable-Caption: [an oval platter] and [a rectangular tablecloth]",
+        "id": 40
+    },
+    {
+        "prompt": "an oval dining table and a square dining chair",
+        "parsed_input": {
+            "assertions": [
+                "there is an oval dining table in the image.",
+                "there is a square dining chair in the image."
+            ],
+            "questions": [
+                "is there an oval dining table in the image?",
+                "is there a square dining chair in the image?"
+            ],
+            "entities": [
+                "dining table",
+                "dining chair"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: an oval dining table and a square dining chair.\nDecomposable-Caption: [an oval dining table] and [a square dining chair]",
+        "id": 41
+    },
+    {
+        "prompt": "a pentagonal chocolate box and a spherical chocolate truffle",
+        "parsed_input": {
+            "assertions": [
+                "there is a pentagonal chocolate box in the image.",
+                "there is a spherical chocolate truffle in the image."
+            ],
+            "questions": [
+                "is there a pentagonal chocolate box in the image?",
+                "is there a spherical chocolate truffle in the image?"
+            ],
+            "entities": [
+                "chocolate box",
+                "chocolate truffle"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a pentagonal chocolate box and a spherical chocolate truffle.\nDecomposable-Caption: [a pentagonal chocolate box] and [a spherical chocolate truffle]",
+        "id": 42
+    },
+    {
+        "prompt": "a long necklace and a short earring",
+        "parsed_input": {
+            "assertions": [
+                "there is a long necklace in the image.",
+                "there is a short earring in the image."
+            ],
+            "questions": [
+                "is there a long necklace in the image?",
+                "is there a short earring in the image?"
+            ],
+            "entities": [
+                "necklace",
+                "earring"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a long necklace and a short earring.\nDecomposable-Caption: [a long necklace] and [a short earring]",
+        "id": 43
+    },
+    {
+        "prompt": "an oblong potato and a teardrop plum",
+        "parsed_input": {
+            "assertions": [
+                "there is an oblong potato in the image.",
+                "there is a teardrop plum in the image."
+            ],
+            "questions": [
+                "is there an oblong potato in the image?",
+                "is there a teardrop plum in the image?"
+            ],
+            "entities": [
+                "potato",
+                "plum"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: an oblong potato and a teardrop plum.\nDecomposable-Caption: [an oblong potato] and [a teardrop plum]",
+        "id": 44
+    },
+    {
+        "prompt": "the oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room",
+        "parsed_input": {
+            "assertions": [
+                "there is an oblong vase in the image.",
+                "the vase has a diamond pattern.",
+                "the vase has a circular mouth.",
+                "the vase is displaying flowers.",
+                "the flowers are in the conical corner.",
+                "the conical corner is part of the room."
+            ],
+            "questions": [
+                "is there an oblong vase in the image?",
+                "does the vase have a diamond pattern?",
+                "does the vase have a circular mouth?",
+                "is the vase displaying flowers?",
+                "are the flowers in the conical corner?",
+                "is the conical corner part of the room?"
+            ],
+            "entities": [
+                "vase",
+                "diamond pattern",
+                "circular mouth",
+                "flowers",
+                "conical corner",
+                "room"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "relation",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the oblong vase] [with its diamond pattern] [and circular mouth] [displayed flowers] [in the conical corner] [of the room]",
+        "id": 45
+    },
+    {
+        "prompt": "the spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson",
+        "parsed_input": {
+            "assertions": [
+                "there is a spherical ball in the image.",
+                "there is a pentagonal pyramid in the image.",
+                "the ball and the pyramid were the objects of focus.",
+                "the focus is in the context of a geometry lesson."
+            ],
+            "questions": [
+                "is there a spherical ball in the image?",
+                "is there a pentagonal pyramid in the image?",
+                "were the ball and the pyramid the objects of focus?",
+                "is the focus in the context of a geometry lesson?"
+            ],
+            "entities": [
+                "ball",
+                "pyramid",
+                "geometry lesson"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable Caption: [the spherical ball] and [the pentagonal pyramid] [were the objects of focus] [in the geometry lesson]",
+        "id": 46
+    },
+    {
+        "prompt": "the conical hat and the spherical ball were the objects of attention in the magic show",
+        "parsed_input": {
+            "assertions": [
+                "there is a conical hat in the image.",
+                "there is a spherical ball in the image.",
+                "the conical hat and the spherical ball were the objects of attention.",
+                "the objects of attention are in a magic show."
+            ],
+            "questions": [
+                "is there a conical hat in the image?",
+                "is there a spherical ball in the image?",
+                "were the conical hat and the spherical ball the objects of attention?",
+                "are the objects of attention in a magic show?"
+            ],
+            "entities": [
+                "conical hat",
+                "spherical ball",
+                "magic show"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the conical hat] and [the spherical ball] [were the objects of attention] [in the magic show]",
+        "id": 47
+    },
+    {
+        "prompt": "the oblong painting and the circular sculpture were the centerpieces of the art exhibit",
+        "parsed_input": {
+            "assertions": [
+                "there is an oblong painting in the image.",
+                "there is a circular sculpture in the image.",
+                "the painting and the sculpture are the centerpieces.",
+                "the centerpieces are part of an art exhibit."
+            ],
+            "questions": [
+                "is there an oblong painting in the image?",
+                "is there a circular sculpture in the image?",
+                "are the painting and the sculpture the centerpieces?",
+                "are the centerpieces part of an art exhibit?"
+            ],
+            "entities": [
+                "painting",
+                "sculpture",
+                "art exhibit"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: The oblong painting and the circular sculpture were the centerpieces of the art exhibit.\nDecomposable-Caption: [The oblong painting] and [the circular sculpture] [were the centerpieces] [of the art exhibit]",
+        "id": 48
+    },
+    {
+        "prompt": "the long dress and the short skirt were both fashionable choices",
+        "parsed_input": {
+            "assertions": [
+                "there is a long dress in the image.",
+                "there is a short skirt in the image.",
+                "both the dress and the skirt are fashionable."
+            ],
+            "questions": [
+                "is there a long dress in the image?",
+                "is there a short skirt in the image?",
+                "are both the dress and the skirt fashionable?"
+            ],
+            "entities": [
+                "long dress",
+                "short skirt"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: the long dress and the short skirt were both fashionable choices.\nDecomposable-Caption: [the long dress] and [the short skirt] [were both fashionable choices]",
+        "id": 49
+    },
+    {
+        "prompt": "a rubber ball and a leather wallet",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber ball in the image.",
+                "there is a leather wallet in the image."
+            ],
+            "questions": [
+                "is there a rubber ball in the image?",
+                "is there a leather wallet in the image?"
+            ],
+            "entities": [
+                "rubber ball",
+                "leather wallet"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rubber ball and a leather wallet.\nDecomposable-Caption: [a rubber ball] and [a leather wallet]",
+        "id": 50
+    },
+    {
+        "prompt": "a wooden spoon and a fabric rug",
+        "parsed_input": {
+            "assertions": [
+                "there is a wooden spoon in the image.",
+                "there is a fabric rug in the image."
+            ],
+            "questions": [
+                "is there a wooden spoon in the image?",
+                "is there a fabric rug in the image?"
+            ],
+            "entities": [
+                "wooden spoon",
+                "fabric rug"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a wooden spoon and a fabric rug.\nDecomposable-Caption: [a wooden spoon] and [a fabric rug]",
+        "id": 51
+    },
+    {
+        "prompt": "fluffy clouds and a glass table",
+        "parsed_input": {
+            "assertions": [
+                "there are fluffy clouds in the image.",
+                "there is a glass table in the image."
+            ],
+            "questions": [
+                "are there fluffy clouds in the image?",
+                "is there a glass table in the image?"
+            ],
+            "entities": [
+                "clouds",
+                "table"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: fluffy clouds and a glass table.\nDecomposable-Caption: [fluffy clouds] and [a glass table]",
+        "id": 52
+    },
+    {
+        "prompt": "a wooden door and a fluffy blanket",
+        "parsed_input": {
+            "assertions": [
+                "there is a wooden door in the image.",
+                "there is a fluffy blanket in the image."
+            ],
+            "questions": [
+                "is there a wooden door in the image?",
+                "is there a fluffy blanket in the image?"
+            ],
+            "entities": [
+                "door",
+                "blanket"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a wooden door] and [a fluffy blanket]",
+        "id": 53
+    },
+    {
+        "prompt": "a wooden table and a leather belt",
+        "parsed_input": {
+            "assertions": [
+                "there is a wooden table in the image.",
+                "there is a leather belt in the image."
+            ],
+            "questions": [
+                "is there a wooden table in the image?",
+                "is there a leather belt in the image?"
+            ],
+            "entities": [
+                "table",
+                "belt"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a wooden table and a leather belt.\nDecomposable-Caption: [a wooden table] and [a leather belt]",
+        "id": 54
+    },
+    {
+        "prompt": "a metallic fork and a fabric dress",
+        "parsed_input": {
+            "assertions": [
+                "there is a metallic fork in the image.",
+                "there is a fabric dress in the image."
+            ],
+            "questions": [
+                "is there a metallic fork in the image?",
+                "is there a fabric dress in the image?"
+            ],
+            "entities": [
+                "fork",
+                "dress"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a metallic fork and a fabric dress.\nDecomposable-Caption: [a metallic fork] and [a fabric dress]",
+        "id": 55
+    },
+    {
+        "prompt": "a metallic watch and a fluffy sweater",
+        "parsed_input": {
+            "assertions": [
+                "there is a metallic watch in the image.",
+                "there is a fluffy sweater in the image."
+            ],
+            "questions": [
+                "is there a metallic watch in the image?",
+                "is there a fluffy sweater in the image?"
+            ],
+            "entities": [
+                "watch",
+                "sweater"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a metallic watch and a fluffy sweater.\nDecomposable-Caption: [a metallic watch] and [a fluffy sweater]",
+        "id": 56
+    },
+    {
+        "prompt": "a plastic container and a fluffy teddy bear",
+        "parsed_input": {
+            "assertions": [
+                "there is a plastic container in the image.",
+                "there is a fluffy teddy bear in the image."
+            ],
+            "questions": [
+                "is there a plastic container in the image?",
+                "is there a fluffy teddy bear in the image?"
+            ],
+            "entities": [
+                "plastic container",
+                "teddy bear"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a plastic container and a fluffy teddy bear.\nDecomposable-Caption: [a plastic container] and [a fluffy teddy bear]",
+        "id": 57
+    },
+    {
+        "prompt": "a metallic knife and a glass jar",
+        "parsed_input": {
+            "assertions": [
+                "there is a metallic knife in the image.",
+                "there is a glass jar in the image."
+            ],
+            "questions": [
+                "is there a metallic knife in the image?",
+                "is there a glass jar in the image?"
+            ],
+            "entities": [
+                "knife",
+                "jar"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a metallic knife and a glass jar.\nDecomposable-Caption: [a metallic knife] and [a glass jar]",
+        "id": 58
+    },
+    {
+        "prompt": "a rubber band and a fabric blanket",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber band in the image.",
+                "there is a fabric blanket in the image."
+            ],
+            "questions": [
+                "is there a rubber band in the image?",
+                "is there a fabric blanket in the image?"
+            ],
+            "entities": [
+                "rubber band",
+                "fabric blanket"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a rubber band] and [a fabric blanket]",
+        "id": 59
+    },
+    {
+        "prompt": "a rubber band and a fabric curtain",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber band in the image.",
+                "there is a fabric curtain in the image."
+            ],
+            "questions": [
+                "is there a rubber band in the image?",
+                "is there a fabric curtain in the image?"
+            ],
+            "entities": [
+                "rubber band",
+                "fabric curtain"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rubber band and a fabric curtain.\nDecomposable-Caption: [a rubber band] and [a fabric curtain]",
+        "id": 60
+    },
+    {
+        "prompt": "rubber gloves and a plastic toy",
+        "parsed_input": {
+            "assertions": [
+                "there are rubber gloves in the image.",
+                "there is a plastic toy in the image."
+            ],
+            "questions": [
+                "are there rubber gloves in the image?",
+                "is there a plastic toy in the image?"
+            ],
+            "entities": [
+                "rubber gloves",
+                "plastic toy"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [rubber gloves] and [a plastic toy]",
+        "id": 61
+    },
+    {
+        "prompt": "a metallic keychain and a wooden jewelry box",
+        "parsed_input": {
+            "assertions": [
+                "there is a metallic keychain in the image.",
+                "there is a wooden jewelry box in the image."
+            ],
+            "questions": [
+                "is there a metallic keychain in the image?",
+                "is there a wooden jewelry box in the image?"
+            ],
+            "entities": [
+                "keychain",
+                "jewelry box"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a metallic keychain and a wooden jewelry box.\nDecomposable-Caption: [a metallic keychain] and [a wooden jewelry box]",
+        "id": 62
+    },
+    {
+        "prompt": "a rubber eraser and a plastic chair",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber eraser in the image.",
+                "there is a plastic chair in the image."
+            ],
+            "questions": [
+                "is there a rubber eraser in the image?",
+                "is there a plastic chair in the image?"
+            ],
+            "entities": [
+                "rubber eraser",
+                "plastic chair"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rubber eraser and a plastic chair.\nDecomposable-Caption: [a rubber eraser] and [a plastic chair]",
+        "id": 63
+    },
+    {
+        "prompt": "a rubber eraser and a metallic keychain",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber eraser in the image.",
+                "there is a metallic keychain in the image."
+            ],
+            "questions": [
+                "is there a rubber eraser in the image?",
+                "is there a metallic keychain in the image?"
+            ],
+            "entities": [
+                "rubber eraser",
+                "metallic keychain"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rubber eraser and a metallic keychain.\nDecomposable-Caption: [a rubber eraser] and [a metallic keychain]",
+        "id": 64
+    },
+    {
+        "prompt": "a rubber eraser and a wooden picture frame",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber eraser in the image.",
+                "there is a wooden picture frame in the image."
+            ],
+            "questions": [
+                "is there a rubber eraser in the image?",
+                "is there a wooden picture frame in the image?"
+            ],
+            "entities": [
+                "rubber eraser",
+                "wooden picture frame"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a rubber eraser] and [a wooden picture frame]",
+        "id": 65
+    },
+    {
+        "prompt": "a rubber band and a fabric towel",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber band in the image.",
+                "there is a fabric towel in the image."
+            ],
+            "questions": [
+                "is there a rubber band in the image?",
+                "is there a fabric towel in the image?"
+            ],
+            "entities": [
+                "rubber band",
+                "fabric towel"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rubber band and a fabric towel.\nDecomposable-Caption: [a rubber band] and [a fabric towel]",
+        "id": 66
+    },
+    {
+        "prompt": "a fluffy hat and a glass plate",
+        "parsed_input": {
+            "assertions": [
+                "there is a fluffy hat in the image.",
+                "there is a glass plate in the image."
+            ],
+            "questions": [
+                "is there a fluffy hat in the image?",
+                "is there a glass plate in the image?"
+            ],
+            "entities": [
+                "hat",
+                "plate"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a fluffy hat and a glass plate.\nDecomposable-Caption: [a fluffy hat] and [a glass plate]",
+        "id": 67
+    },
+    {
+        "prompt": "a metallic bracelet and a leather hat",
+        "parsed_input": {
+            "assertions": [
+                "there is a metallic bracelet in the image.",
+                "there is a leather hat in the image."
+            ],
+            "questions": [
+                "is there a metallic bracelet in the image?",
+                "is there a leather hat in the image?"
+            ],
+            "entities": [
+                "bracelet",
+                "hat"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a metallic bracelet and a leather hat.\nDecomposable-Caption: [a metallic bracelet] and [a leather hat]",
+        "id": 68
+    },
+    {
+        "prompt": "rubber mat and a fluffy scarf",
+        "parsed_input": {
+            "assertions": [
+                "there is a rubber mat in the image.",
+                "there is a fluffy scarf in the image."
+            ],
+            "questions": [
+                "is there a rubber mat in the image?",
+                "is there a fluffy scarf in the image?"
+            ],
+            "entities": [
+                "rubber mat",
+                "fluffy scarf"
+            ],
+            "type": [
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: rubber mat and a fluffy scarf.\nDecomposable-Caption: [rubber mat] and [a fluffy scarf]",
+        "id": 69
+    },
+    {
+        "prompt": "the glass vase and metallic stand display the wooden flowers on the fabric dresser",
+        "parsed_input": {
+            "assertions": [
+                "there is a glass vase in the image.",
+                "there is a metallic stand in the image.",
+                "the glass vase and metallic stand are displaying wooden flowers.",
+                "there are wooden flowers in the image.",
+                "the display is on the fabric dresser.",
+                "there is a fabric dresser in the image."
+            ],
+            "questions": [
+                "is there a glass vase in the image?",
+                "is there a metallic stand in the image?",
+                "are the glass vase and metallic stand displaying wooden flowers?",
+                "are there wooden flowers in the image?",
+                "is the display on the fabric dresser?",
+                "is there a fabric dresser in the image?"
+            ],
+            "entities": [
+                "glass vase",
+                "metallic stand",
+                "wooden flowers",
+                "fabric dresser"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [the glass vase] and [metallic stand] [display] [the wooden flowers] [on the fabric dresser]",
+        "id": 70
+    },
+    {
+        "prompt": "the fluffy cat and leather collar nap on the wooden windowsill next to the glass vase",
+        "parsed_input": {
+            "assertions": [
+                "there is a fluffy cat in the image.",
+                "the cat has a leather collar.",
+                "the cat is napping on the wooden windowsill.",
+                "there is a wooden windowsill in the image.",
+                "the windowsill is next to a glass vase.",
+                "there is a glass vase in the image."
+            ],
+            "questions": [
+                "is there a fluffy cat in the image?",
+                "does the cat have a leather collar?",
+                "is the cat napping on the wooden windowsill?",
+                "is there a wooden windowsill in the image?",
+                "is the windowsill next to a glass vase?",
+                "is there a glass vase in the image?"
+            ],
+            "entities": [
+                "cat",
+                "collar",
+                "windowsill",
+                "vase"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the fluffy cat] and [leather collar] [nap on the wooden windowsill] [next to the glass vase]",
+        "id": 71
+    },
+    {
+        "prompt": "the wooden birdhouse and glass bird feeder attract the metallic birds on the fabric tree",
+        "parsed_input": {
+            "assertions": [
+                "there is a wooden birdhouse in the image.",
+                "there is a glass bird feeder in the image.",
+                "the birdhouse and bird feeder attract the metallic birds.",
+                "there are metallic birds in the image.",
+                "the birds are on the fabric tree.",
+                "there is a fabric tree in the image."
+            ],
+            "questions": [
+                "is there a wooden birdhouse in the image?",
+                "is there a glass bird feeder in the image?",
+                "do the birdhouse and bird feeder attract the metallic birds?",
+                "are there metallic birds in the image?",
+                "are the birds on the fabric tree?",
+                "is there a fabric tree in the image?"
+            ],
+            "entities": [
+                "birdhouse",
+                "bird feeder",
+                "birds",
+                "tree"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the wooden birdhouse] and [glass bird feeder] [attract the metallic birds] [on the fabric tree]",
+        "id": 72
+    },
+    {
+        "prompt": "the leather belt and fluffy hat hang on the metallic hook by the glass door",
+        "parsed_input": {
+            "assertions": [
+                "there is a leather belt in the image.",
+                "there is a fluffy hat in the image.",
+                "the leather belt and fluffy hat are hanging on the metallic hook.",
+                "there is a metallic hook in the image.",
+                "the metallic hook is by the glass door.",
+                "there is a glass door in the image."
+            ],
+            "questions": [
+                "is there a leather belt in the image?",
+                "is there a fluffy hat in the image?",
+                "are the leather belt and fluffy hat hanging on the metallic hook?",
+                "is there a metallic hook in the image?",
+                "is the metallic hook by the glass door?",
+                "is there a glass door in the image?"
+            ],
+            "entities": [
+                "leather belt",
+                "fluffy hat",
+                "metallic hook",
+                "glass door"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: the leather belt and fluffy hat hang on the metallic hook by the glass door.\nDecomposable-Caption: [the leather belt] and [fluffy hat] [hang on] [the metallic hook] [by the glass door]",
+        "id": 73
+    },
+    {
+        "prompt": "the glass jar and fluffy ribbon hold the metallic candy on the wooden table",
+        "parsed_input": {
+            "assertions": [
+                "there is a glass jar in the image.",
+                "there is a fluffy ribbon in the image.",
+                "the jar and ribbon hold the metallic candy.",
+                "the jar, ribbon, and candy are on the wooden table.",
+                "there is a wooden table in the image."
+            ],
+            "questions": [
+                "is there a glass jar in the image?",
+                "is there a fluffy ribbon in the image?",
+                "do the jar and ribbon hold the metallic candy?",
+                "are the jar, ribbon, and candy on the wooden table?",
+                "is there a wooden table in the image?"
+            ],
+            "entities": [
+                "glass jar",
+                "fluffy ribbon",
+                "metallic candy",
+                "wooden table"
+            ],
+            "type": [
+                "noun",
+                "noun",
+                "relation",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The glass jar and fluffy ribbon hold the metallic candy on the wooden table.\nDecomposable-Caption: [The glass jar] and [fluffy ribbon] [hold the metallic candy] [on the wooden table].",
+        "id": 74
+    },
+    {
+        "prompt": "a desk on the right of a horse",
+        "parsed_input": {
+            "assertions": [
+                "there is a desk in the image.",
+                "the desk is on the right of the horse.",
+                "there is a horse in the image."
+            ],
+            "questions": [
+                "is there a desk in the image?",
+                "is the desk on the right of the horse?",
+                "is there a horse in the image?"
+            ],
+            "entities": [
+                "desk",
+                "horse"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a desk on the right of a horse.\nDecomposable-Caption: [a desk] [on the right] [of a horse]",
+        "id": 75
+    },
+    {
+        "prompt": "a table on the bottom of a dog",
+        "parsed_input": {
+            "assertions": [
+                "there is a table in the image.",
+                "the table is on the bottom of the dog.",
+                "there is a dog in the image."
+            ],
+            "questions": [
+                "is there a table in the image?",
+                "is the table on the bottom of the dog?",
+                "is there a dog in the image?"
+            ],
+            "entities": [
+                "table",
+                "dog"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a table on the bottom of a dog.\nDecomposable-Caption: [a table] [on the bottom] [of a dog]",
+        "id": 76
+    },
+    {
+        "prompt": "a boy on the left of a balloon",
+        "parsed_input": {
+            "assertions": [
+                "there is a boy in the image.",
+                "the boy is on the left of the balloon.",
+                "there is a balloon in the image."
+            ],
+            "questions": [
+                "is there a boy in the image?",
+                "is the boy on the left of the balloon?",
+                "is there a balloon in the image?"
+            ],
+            "entities": [
+                "boy",
+                "balloon"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a boy on the left of a balloon.\nDecomposable-Caption: [a boy] [on the left] [of a balloon]",
+        "id": 77
+    },
+    {
+        "prompt": "a bird on the left of a clock",
+        "parsed_input": {
+            "assertions": [
+                "there is a bird in the image.",
+                "the bird is on the left of the clock.",
+                "there is a clock in the image."
+            ],
+            "questions": [
+                "is there a bird in the image?",
+                "is the bird on the left of the clock?",
+                "is there a clock in the image?"
+            ],
+            "entities": [
+                "bird",
+                "clock"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a bird on the left of a clock.\nDecomposable-Caption: [a bird] [on the left] [of a clock]",
+        "id": 78
+    },
+    {
+        "prompt": "a cat next to a suitcase",
+        "parsed_input": {
+            "assertions": [
+                "there is a cat in the image.",
+                "the cat is next to the suitcase.",
+                "there is a suitcase in the image."
+            ],
+            "questions": [
+                "is there a cat in the image?",
+                "is the cat next to the suitcase?",
+                "is there a suitcase in the image?"
+            ],
+            "entities": [
+                "cat",
+                "suitcase"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a cat next to a suitcase.\nDecomposable-Caption: [a cat] [next to] [a suitcase]",
+        "id": 79
+    },
+    {
+        "prompt": "a man on the left of a lamp",
+        "parsed_input": {
+            "assertions": [
+                "there is a man in the image.",
+                "the man is on the left.",
+                "there is a lamp in the image."
+            ],
+            "questions": [
+                "is there a man in the image?",
+                "is the man on the left?",
+                "is there a lamp in the image?"
+            ],
+            "entities": [
+                "man",
+                "lamp"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a man] [on the left] [of a lamp]",
+        "id": 80
+    },
+    {
+        "prompt": "a vase on the right of a cat",
+        "parsed_input": {
+            "assertions": [
+                "there is a vase in the image.",
+                "the vase is on the right of the cat.",
+                "there is a cat in the image."
+            ],
+            "questions": [
+                "is there a vase in the image?",
+                "is the vase on the right of the cat?",
+                "is there a cat in the image?"
+            ],
+            "entities": [
+                "vase",
+                "cat"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a vase on the right of a cat.\nDecomposable-Caption: [a vase] [on the right] [of a cat]",
+        "id": 81
+    },
+    {
+        "prompt": "a woman on the top of a painting",
+        "parsed_input": {
+            "assertions": [
+                "there is a woman in the image.",
+                "the woman is on the top of a painting.",
+                "there is a painting in the image."
+            ],
+            "questions": [
+                "is there a woman in the image?",
+                "is the woman on the top of a painting?",
+                "is there a painting in the image?"
+            ],
+            "entities": [
+                "woman",
+                "painting"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a woman on the top of a painting.\nDecomposable-Caption: [a woman] [on the top] [of a painting]",
+        "id": 82
+    },
+    {
+        "prompt": "a rabbit on the bottom of a chair",
+        "parsed_input": {
+            "assertions": [
+                "there is a rabbit in the image.",
+                "the rabbit is on the bottom of the chair.",
+                "there is a chair in the image."
+            ],
+            "questions": [
+                "is there a rabbit in the image?",
+                "is the rabbit on the bottom of the chair?",
+                "is there a chair in the image?"
+            ],
+            "entities": [
+                "rabbit",
+                "chair"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rabbit on the bottom of a chair.\nDecomposable-Caption: [a rabbit] [on the bottom] [of a chair]",
+        "id": 83
+    },
+    {
+        "prompt": "a dog on the bottom of a balloon",
+        "parsed_input": {
+            "assertions": [
+                "there is a dog in the image.",
+                "the dog is on the bottom of something.",
+                "there is a balloon in the image."
+            ],
+            "questions": [
+                "is there a dog in the image?",
+                "is the dog on the bottom of something?",
+                "is there a balloon in the image?"
+            ],
+            "entities": [
+                "dog",
+                "balloon"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a dog on the bottom of a balloon.\nDecomposable-Caption: [a dog] [on the bottom] [of a balloon]",
+        "id": 84
+    },
+    {
+        "prompt": "a rabbit on the right of a wallet",
+        "parsed_input": {
+            "assertions": [
+                "there is a rabbit in the image.",
+                "the rabbit is on the right of the wallet.",
+                "there is a wallet in the image."
+            ],
+            "questions": [
+                "is there a rabbit in the image?",
+                "is the rabbit on the right of the wallet?",
+                "is there a wallet in the image?"
+            ],
+            "entities": [
+                "rabbit",
+                "wallet"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a rabbit on the right of a wallet.\nDecomposable-Caption: [a rabbit] [on the right of] [a wallet]",
+        "id": 85
+    },
+    {
+        "prompt": "a giraffe near a computer",
+        "parsed_input": {
+            "assertions": [
+                "there is a giraffe in the image.",
+                "the giraffe is near a computer.",
+                "there is a computer in the image."
+            ],
+            "questions": [
+                "is there a giraffe in the image?",
+                "is the giraffe near a computer?",
+                "is there a computer in the image?"
+            ],
+            "entities": [
+                "giraffe",
+                "computer"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a giraffe] [near a computer]",
+        "id": 86
+    },
+    {
+        "prompt": "a key on the right of a dog",
+        "parsed_input": {
+            "assertions": [
+                "there is a key in the image.",
+                "the key is on the right of the dog.",
+                "there is a dog in the image."
+            ],
+            "questions": [
+                "is there a key in the image?",
+                "is the key on the right of the dog?",
+                "is there a dog in the image?"
+            ],
+            "entities": [
+                "key",
+                "dog"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a key on the right of a dog.\nDecomposable-Caption: [a key] [on the right of] [a dog]",
+        "id": 87
+    },
+    {
+        "prompt": "a suitcase on the right of a cow",
+        "parsed_input": {
+            "assertions": [
+                "there is a suitcase in the image.",
+                "the suitcase is on the right of the cow.",
+                "there is a cow in the image."
+            ],
+            "questions": [
+                "is there a suitcase in the image?",
+                "is the suitcase on the right of the cow?",
+                "is there a cow in the image?"
+            ],
+            "entities": [
+                "suitcase",
+                "cow"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a suitcase] [on the right of] [a cow]",
+        "id": 88
+    },
+    {
+        "prompt": "a bird on side of a balloon",
+        "parsed_input": {
+            "assertions": [
+                "there is a bird in the image.",
+                "the bird is on the side of a balloon.",
+                "there is a balloon in the image."
+            ],
+            "questions": [
+                "is there a bird in the image?",
+                "is the bird on the side of a balloon?",
+                "is there a balloon in the image?"
+            ],
+            "entities": [
+                "bird",
+                "balloon"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a bird on side of a balloon.\nDecomposable-Caption: [a bird] [on side of] [a balloon]",
+        "id": 89
+    },
+    {
+        "prompt": "a bowl on the bottom of a frog",
+        "parsed_input": {
+            "assertions": [
+                "there is a bowl in the image.",
+                "the bowl is on the bottom of the frog.",
+                "there is a frog in the image."
+            ],
+            "questions": [
+                "is there a bowl in the image?",
+                "is the bowl on the bottom of the frog?",
+                "is there a frog in the image?"
+            ],
+            "entities": [
+                "bowl",
+                "frog"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a bowl on the bottom of a frog.\nDecomposable-Caption: [a bowl] [on the bottom] [of a frog]",
+        "id": 90
+    },
+    {
+        "prompt": "a girl on the right of a sofa",
+        "parsed_input": {
+            "assertions": [
+                "there is a girl in the image.",
+                "the girl is on the right.",
+                "there is a sofa in the image."
+            ],
+            "questions": [
+                "is there a girl in the image?",
+                "is the girl on the right?",
+                "is there a sofa in the image?"
+            ],
+            "entities": [
+                "girl",
+                "sofa"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a girl] [on the right] [of a sofa]",
+        "id": 91
+    },
+    {
+        "prompt": "a butterfly on the right of a wallet",
+        "parsed_input": {
+            "assertions": [
+                "there is a butterfly in the image.",
+                "the butterfly is on the right of the wallet.",
+                "there is a wallet in the image."
+            ],
+            "questions": [
+                "is there a butterfly in the image?",
+                "is the butterfly on the right of the wallet?",
+                "is there a wallet in the image?"
+            ],
+            "entities": [
+                "butterfly",
+                "wallet"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a butterfly on the right of a wallet.\nDecomposable-Caption: [a butterfly] [on the right] [of a wallet]",
+        "id": 92
+    },
+    {
+        "prompt": "a woman on the top of a microwave",
+        "parsed_input": {
+            "assertions": [
+                "there is a woman in the image.",
+                "the woman is on the top of a microwave.",
+                "there is a microwave in the image."
+            ],
+            "questions": [
+                "is there a woman in the image?",
+                "is the woman on the top of a microwave?",
+                "is there a microwave in the image?"
+            ],
+            "entities": [
+                "woman",
+                "microwave"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a woman on the top of a microwave.\nDecomposable-Caption: [a woman] [on the top] [of a microwave]",
+        "id": 93
+    },
+    {
+        "prompt": "a mouse on the top of a bowl",
+        "parsed_input": {
+            "assertions": [
+                "there is a mouse in the image.",
+                "the mouse is on the top of something.",
+                "there is a bowl in the image."
+            ],
+            "questions": [
+                "is there a mouse in the image?",
+                "is the mouse on the top of something?",
+                "is there a bowl in the image?"
+            ],
+            "entities": [
+                "mouse",
+                "bowl"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a mouse on the top of a bowl.\nDecomposable-Caption: [a mouse] [on the top] [of a bowl]",
+        "id": 94
+    },
+    {
+        "prompt": "a woman on the left of a horse",
+        "parsed_input": {
+            "assertions": [
+                "there is a woman in the image.",
+                "the woman is on the left of the horse.",
+                "there is a horse in the image."
+            ],
+            "questions": [
+                "is there a woman in the image?",
+                "is the woman on the left of the horse?",
+                "is there a horse in the image?"
+            ],
+            "entities": [
+                "woman",
+                "horse"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a woman on the left of a horse.\nDecomposable-Caption: [a woman] [on the left] [of a horse]",
+        "id": 95
+    },
+    {
+        "prompt": "a cat on the top of a candle",
+        "parsed_input": {
+            "assertions": [
+                "there is a cat in the image.",
+                "the cat is on top of something.",
+                "there is a candle in the image."
+            ],
+            "questions": [
+                "is there a cat in the image?",
+                "is the cat on top of something?",
+                "is there a candle in the image?"
+            ],
+            "entities": [
+                "cat",
+                "candle"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a cat on the top of a candle.\nDecomposable-Caption: [a cat] [on the top] [of a candle]",
+        "id": 96
+    },
+    {
+        "prompt": "a frog on the left of a table",
+        "parsed_input": {
+            "assertions": [
+                "there is a frog in the image.",
+                "the frog is on the left of the table.",
+                "there is a table in the image."
+            ],
+            "questions": [
+                "is there a frog in the image?",
+                "is the frog on the left of the table?",
+                "is there a table in the image?"
+            ],
+            "entities": [
+                "frog",
+                "table"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a frog on the left of a table.\nDecomposable-Caption: [a frog] [on the left] [of a table]",
+        "id": 97
+    },
+    {
+        "prompt": "a sheep on the bottom of a painting",
+        "parsed_input": {
+            "assertions": [
+                "there is a sheep in the image.",
+                "the sheep is on the bottom of the painting.",
+                "there is a painting in the image."
+            ],
+            "questions": [
+                "is there a sheep in the image?",
+                "is the sheep on the bottom of the painting?",
+                "is there a painting in the image?"
+            ],
+            "entities": [
+                "sheep",
+                "painting"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a sheep on the bottom of a painting.\nDecomposable-Caption: [a sheep] [on the bottom] [of a painting]",
+        "id": 98
+    },
+    {
+        "prompt": "a mouse on side of a bag",
+        "parsed_input": {
+            "assertions": [
+                "there is a mouse in the image.",
+                "the mouse is on the side of something.",
+                "there is a bag in the image."
+            ],
+            "questions": [
+                "is there a mouse in the image?",
+                "is the mouse on the side of something?",
+                "is there a bag in the image?"
+            ],
+            "entities": [
+                "mouse",
+                "bag"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a mouse] [on side] [of a bag]",
+        "id": 99
+    },
+    {
+        "prompt": "a child is running around a playground and playing with friends",
+        "parsed_input": {
+            "assertions": [
+                "there is a child in the image.",
+                "the child is running around.",
+                "there is a playground in the image.",
+                "the child is playing with friends."
+            ],
+            "questions": [
+                "is there a child in the image?",
+                "is the child running around?",
+                "is there a playground in the image?",
+                "is the child playing with friends?"
+            ],
+            "entities": [
+                "child",
+                "playground",
+                "friends"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable Caption: [A child] [is running around] [a playground] and [playing with friends]",
+        "id": 100
+    },
+    {
+        "prompt": "the science fiction writer is creating a futuristic world in their book",
+        "parsed_input": {
+            "assertions": [
+                "there is a science fiction writer in the image.",
+                "the writer is creating something.",
+                "the creation is a futuristic world.",
+                "the futuristic world is in their book."
+            ],
+            "questions": [
+                "is there a science fiction writer in the image?",
+                "is the writer creating something?",
+                "is the creation a futuristic world?",
+                "is the futuristic world in their book?"
+            ],
+            "entities": [
+                "science fiction writer",
+                "futuristic world",
+                "book"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: [the science fiction writer] [is creating] [a futuristic world] [in their book]",
+        "id": 101
+    },
+    {
+        "prompt": "a person is wearing a hat and sunglasses while fishing",
+        "parsed_input": {
+            "assertions": [
+                "there is a person in the image.",
+                "the person is wearing a hat.",
+                "the person is wearing sunglasses.",
+                "the person is fishing."
+            ],
+            "questions": [
+                "is there a person in the image?",
+                "is the person wearing a hat?",
+                "is the person wearing sunglasses?",
+                "is the person fishing?"
+            ],
+            "entities": [
+                "person",
+                "hat",
+                "sunglasses",
+                "fishing"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: a person is wearing a hat and sunglasses while fishing.\nDecomposable-Caption: [a person] [is wearing a hat] [and sunglasses] [while fishing]",
+        "id": 102
+    },
+    {
+        "prompt": "a parent is comforting their child after a bad dream, holding them close and soothing their fears",
+        "parsed_input": {
+            "assertions": [
+                "there is a parent in the image.",
+                "the parent is comforting their child.",
+                "the child had a bad dream.",
+                "the parent is holding the child close.",
+                "the parent is soothing the child's fears."
+            ],
+            "questions": [
+                "is there a parent in the image?",
+                "is the parent comforting their child?",
+                "did the child have a bad dream?",
+                "is the parent holding the child close?",
+                "is the parent soothing the child's fears?"
+            ],
+            "entities": [
+                "parent",
+                "child",
+                "dream"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a parent] [is comforting their child] [after a bad dream], [holding them close] and [soothing their fears].",
+        "id": 103
+    },
+    {
+        "prompt": "a dog is chasing its tail and having a playful moment",
+        "parsed_input": {
+            "assertions": [
+                "there is a dog in the image.",
+                "the dog is chasing its tail.",
+                "the dog is having a playful moment."
+            ],
+            "questions": [
+                "is there a dog in the image?",
+                "is the dog chasing its tail?",
+                "is the dog having a playful moment?"
+            ],
+            "entities": [
+                "dog"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable Caption: [a dog] [is chasing its tail] [and having a playful moment]",
+        "id": 104
+    },
+    {
+        "prompt": "a woman is holding a bouquet of flowers and smiling with happiness",
+        "parsed_input": {
+            "assertions": [
+                "there is a woman in the image.",
+                "the woman is holding a bouquet of flowers.",
+                "the woman is smiling with happiness."
+            ],
+            "questions": [
+                "is there a woman in the image?",
+                "is the woman holding a bouquet of flowers?",
+                "is the woman smiling with happiness?"
+            ],
+            "entities": [
+                "woman",
+                "bouquet of flowers"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a woman] [is holding a bouquet of flowers] and [smiling with happiness]",
+        "id": 105
+    },
+    {
+        "prompt": "a child is carefully planting a seed in the garden, hoping it will grow into a beautiful flower",
+        "parsed_input": {
+            "assertions": [
+                "there is a child in the image.",
+                "the child is carefully planting a seed.",
+                "the seed is in the garden.",
+                "the child is hoping.",
+                "the seed will grow.",
+                "the growth will result in a beautiful flower."
+            ],
+            "questions": [
+                "is there a child in the image?",
+                "is the child carefully planting a seed?",
+                "is the seed in the garden?",
+                "is the child hoping?",
+                "will the seed grow?",
+                "will the growth result in a beautiful flower?"
+            ],
+            "entities": [
+                "child",
+                "seed",
+                "garden",
+                "flower"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "relation",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: a child is carefully planting a seed in the garden, hoping it will grow into a beautiful flower.\nDecomposable-Caption: [a child] [is carefully planting a seed] [in the garden], [hoping] [it will grow] [into a beautiful flower].",
+        "id": 106
+    },
+    {
+        "prompt": "a boat is sailing on a lake",
+        "parsed_input": {
+            "assertions": [
+                "there is a boat in the image.",
+                "the boat is sailing.",
+                "there is a lake in the image."
+            ],
+            "questions": [
+                "is there a boat in the image?",
+                "is the boat sailing?",
+                "is there a lake in the image?"
+            ],
+            "entities": [
+                "boat",
+                "lake"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a boat is sailing on a lake.\nDecomposable-Caption: [a boat] [is sailing] [on a lake]",
+        "id": 107
+    },
+    {
+        "prompt": "a baby is holding onto their mother's finger",
+        "parsed_input": {
+            "assertions": [
+                "there is a baby in the image.",
+                "the baby is holding onto something.",
+                "there is a mother's finger in the image."
+            ],
+            "questions": [
+                "is there a baby in the image?",
+                "is the baby holding onto something?",
+                "is there a mother's finger in the image?"
+            ],
+            "entities": [
+                "baby",
+                "mother's finger"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a baby] [is holding onto] [their mother's finger]",
+        "id": 108
+    },
+    {
+        "prompt": "a couple is enjoying a picnic in the park",
+        "parsed_input": {
+            "assertions": [
+                "there is a couple in the image.",
+                "the couple is enjoying a picnic.",
+                "there is a park in the image."
+            ],
+            "questions": [
+                "is there a couple in the image?",
+                "is the couple enjoying a picnic?",
+                "is there a park in the image?"
+            ],
+            "entities": [
+                "couple",
+                "picnic",
+                "park"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a couple is enjoying a picnic in the park.\nDecomposable-Caption: [a couple] [is enjoying a picnic] [in the park]",
+        "id": 109
+    },
+    {
+        "prompt": "a child is playing with a toy kitchen and making imaginary meals",
+        "parsed_input": {
+            "assertions": [
+                "there is a child in the image.",
+                "the child is playing.",
+                "the child is playing with a toy kitchen.",
+                "the child is making imaginary meals."
+            ],
+            "questions": [
+                "is there a child in the image?",
+                "is the child playing?",
+                "is the child playing with a toy kitchen?",
+                "is the child making imaginary meals?"
+            ],
+            "entities": [
+                "child",
+                "toy kitchen",
+                "imaginary meals"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable Caption: [A child] [is playing] [with a toy kitchen] [and making] [imaginary meals]",
+        "id": 110
+    },
+    {
+        "prompt": "a woman is practicing archery in a field",
+        "parsed_input": {
+            "assertions": [
+                "there is a woman in the image.",
+                "the woman is practicing archery.",
+                "there is a field in the image."
+            ],
+            "questions": [
+                "is there a woman in the image?",
+                "is the woman practicing archery?",
+                "is there a field in the image?"
+            ],
+            "entities": [
+                "woman",
+                "field"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a woman] [is practicing archery] [in a field]",
+        "id": 111
+    },
+    {
+        "prompt": "the mechanic is repairing a car in the garage",
+        "parsed_input": {
+            "assertions": [
+                "there is a mechanic in the image.",
+                "the mechanic is repairing a car.",
+                "there is a garage in the image."
+            ],
+            "questions": [
+                "is there a mechanic in the image?",
+                "is the mechanic repairing a car?",
+                "is there a garage in the image?"
+            ],
+            "entities": [
+                "mechanic",
+                "car",
+                "garage"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [the mechanic] [is repairing a car] [in the garage]",
+        "id": 112
+    },
+    {
+        "prompt": "a child is playing with a bubble wand and blowing bubbles in the sunshine",
+        "parsed_input": {
+            "assertions": [
+                "there is a child in the image.",
+                "the child is playing with a bubble wand.",
+                "the child is blowing bubbles.",
+                "there is sunshine in the image."
+            ],
+            "questions": [
+                "is there a child in the image?",
+                "is the child playing with a bubble wand?",
+                "is the child blowing bubbles?",
+                "is there sunshine in the image?"
+            ],
+            "entities": [
+                "child",
+                "bubble wand",
+                "bubbles",
+                "sunshine"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [a child] [is playing with a bubble wand] and [blowing bubbles] [in the sunshine]",
+        "id": 113
+    },
+    {
+        "prompt": "a person is walking with a backpack and exploring a new city",
+        "parsed_input": {
+            "assertions": [
+                "there is a person in the image.",
+                "the person is walking.",
+                "the person has a backpack.",
+                "the person is exploring.",
+                "there is a new city in the image."
+            ],
+            "questions": [
+                "is there a person in the image?",
+                "is the person walking?",
+                "does the person have a backpack?",
+                "is the person exploring?",
+                "is there a new city in the image?"
+            ],
+            "entities": [
+                "person",
+                "backpack",
+                "city"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a person] [is walking] [with a backpack] [and exploring] [a new city]",
+        "id": 114
+    },
+    {
+        "prompt": "the painter is putting a fresh coat of paint on the walls",
+        "parsed_input": {
+            "assertions": [
+                "there is a painter in the image.",
+                "the painter is putting a fresh coat of paint.",
+                "there are walls in the image."
+            ],
+            "questions": [
+                "is there a painter in the image?",
+                "is the painter putting a fresh coat of paint?",
+                "are there walls in the image?"
+            ],
+            "entities": [
+                "painter",
+                "walls"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [the painter] [is putting a fresh coat of paint] [on the walls]",
+        "id": 115
+    },
+    {
+        "prompt": "a child is playing with a toy building set and creating a tower",
+        "parsed_input": {
+            "assertions": [
+                "there is a child in the image.",
+                "the child is playing.",
+                "the child is playing with a toy building set.",
+                "the child is creating a tower."
+            ],
+            "questions": [
+                "is there a child in the image?",
+                "is the child playing?",
+                "is the child playing with a toy building set?",
+                "is the child creating a tower?"
+            ],
+            "entities": [
+                "child",
+                "toy building set",
+                "tower"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a child] [is playing] [with a toy building set] [and creating a tower]",
+        "id": 116
+    },
+    {
+        "prompt": "a person is holding a bouquet of flowers and giving it to a loved one",
+        "parsed_input": {
+            "assertions": [
+                "there is a person in the image.",
+                "the person is holding a bouquet of flowers.",
+                "the person is giving the bouquet to a loved one."
+            ],
+            "questions": [
+                "is there a person in the image?",
+                "is the person holding a bouquet of flowers?",
+                "is the person giving the bouquet to a loved one?"
+            ],
+            "entities": [
+                "person",
+                "bouquet of flowers",
+                "loved one"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [A person] [is holding a bouquet of flowers] and [giving it] [to a loved one]",
+        "id": 117
+    },
+    {
+        "prompt": "a woman is speaking on the phone and pacing back and forth",
+        "parsed_input": {
+            "assertions": [
+                "there is a woman in the image.",
+                "the woman is speaking on the phone.",
+                "the woman is pacing back and forth."
+            ],
+            "questions": [
+                "is there a woman in the image?",
+                "is the woman speaking on the phone?",
+                "is the woman pacing back and forth?"
+            ],
+            "entities": [
+                "woman",
+                "phone"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: a woman is speaking on the phone and pacing back and forth.\nDecomposable-Caption: [a woman] [is speaking on the phone] and [pacing back and forth].",
+        "id": 118
+    },
+    {
+        "prompt": "a dog is sitting next to its owner and listening to commands",
+        "parsed_input": {
+            "assertions": [
+                "there is a dog in the image.",
+                "the dog is sitting.",
+                "the dog is next to its owner.",
+                "the dog is listening to commands."
+            ],
+            "questions": [
+                "is there a dog in the image?",
+                "is the dog sitting?",
+                "is the dog next to its owner?",
+                "is the dog listening to commands?"
+            ],
+            "entities": [
+                "dog",
+                "owner",
+                "commands"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Decomposable Caption: [A dog] [is sitting] [next to its owner] [and listening to commands]",
+        "id": 119
+    },
+    {
+        "prompt": "a person is holding a backpack sprayer and spraying weeds in a garden",
+        "parsed_input": {
+            "assertions": [
+                "there is a person in the image.",
+                "the person is holding a backpack sprayer.",
+                "the person is spraying weeds.",
+                "there is a garden in the image."
+            ],
+            "questions": [
+                "is there a person in the image?",
+                "is the person holding a backpack sprayer?",
+                "is the person spraying weeds?",
+                "is there a garden in the image?"
+            ],
+            "entities": [
+                "person",
+                "backpack sprayer",
+                "weeds",
+                "garden"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a person] [is holding a backpack sprayer] and [spraying weeds] [in a garden]",
+        "id": 120
+    },
+    {
+        "prompt": "a person is holding a pencil and sketching a portrait",
+        "parsed_input": {
+            "assertions": [
+                "there is a person in the image.",
+                "the person is holding a pencil.",
+                "the person is sketching a portrait."
+            ],
+            "questions": [
+                "is there a person in the image?",
+                "is the person holding a pencil?",
+                "is the person sketching a portrait?"
+            ],
+            "entities": [
+                "person",
+                "pencil",
+                "portrait"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: [a person] [is holding a pencil] and [sketching a portrait]",
+        "id": 121
+    },
+    {
+        "prompt": "the painter is creating a landscape painting on canvas",
+        "parsed_input": {
+            "assertions": [
+                "there is a painter in the image.",
+                "the painter is creating a painting.",
+                "the painting is a landscape.",
+                "the painting is on a canvas."
+            ],
+            "questions": [
+                "is there a painter in the image?",
+                "is the painter creating a painting?",
+                "is the painting a landscape?",
+                "is the painting on a canvas?"
+            ],
+            "entities": [
+                "painter",
+                "painting",
+                "canvas"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "[the painter] [is creating] [a landscape painting] [on canvas]",
+        "id": 122
+    },
+    {
+        "prompt": "a man is speaking to his boss about a project at work",
+        "parsed_input": {
+            "assertions": [
+                "there is a man in the image.",
+                "the man is speaking to his boss.",
+                "the conversation is about a project.",
+                "the location is at work."
+            ],
+            "questions": [
+                "is there a man in the image?",
+                "is the man speaking to his boss?",
+                "is the conversation about a project?",
+                "is the location at work?"
+            ],
+            "entities": [
+                "man",
+                "boss",
+                "project",
+                "work"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: a man is speaking to his boss about a project at work.\nDecomposable-Caption: [a man] [is speaking] [to his boss] [about a project] [at work]",
+        "id": 123
+    },
+    {
+        "prompt": "the zookeeper is feeding the animals in their care",
+        "parsed_input": {
+            "assertions": [
+                "there is a zookeeper in the image.",
+                "the zookeeper is feeding the animals.",
+                "there are animals in the image.",
+                "the animals are in the care of the zookeeper."
+            ],
+            "questions": [
+                "is there a zookeeper in the image?",
+                "is the zookeeper feeding the animals?",
+                "are there animals in the image?",
+                "are the animals in the care of the zookeeper?"
+            ],
+            "entities": [
+                "zookeeper",
+                "animals"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: The zookeeper is feeding the animals in their care.\nDecomposable-Caption: [The zookeeper] [is feeding] [the animals] [in their care].",
+        "id": 124
+    },
+    {
+        "prompt": "the soft pillow was on top of the hard rocking chair",
+        "parsed_input": {
+            "assertions": [
+                "there is a soft pillow in the image.",
+                "the pillow is on top of the chair.",
+                "there is a hard rocking chair in the image."
+            ],
+            "questions": [
+                "is there a soft pillow in the image?",
+                "is the pillow on top of the chair?",
+                "is there a hard rocking chair in the image?"
+            ],
+            "entities": [
+                "pillow",
+                "chair"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The soft pillow was on top of the hard rocking chair.\nDecomposable-Caption: [The soft pillow] [was on top of] [the hard rocking chair]",
+        "id": 125
+    },
+    {
+        "prompt": "the striped rug was on top of the tiled floor",
+        "parsed_input": {
+            "assertions": [
+                "there is a striped rug in the image.",
+                "the rug is on top of the floor.",
+                "there is a tiled floor in the image."
+            ],
+            "questions": [
+                "is there a striped rug in the image?",
+                "is the rug on top of the floor?",
+                "is there a tiled floor in the image?"
+            ],
+            "entities": [
+                "rug",
+                "floor"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: [the striped rug] [was on top of] [the tiled floor]",
+        "id": 126
+    },
+    {
+        "prompt": "the fluffy cat was lying on the soft blanket",
+        "parsed_input": {
+            "assertions": [
+                "there is a fluffy cat in the image.",
+                "the cat is lying on something.",
+                "there is a soft blanket in the image."
+            ],
+            "questions": [
+                "is there a fluffy cat in the image?",
+                "is the cat lying on something?",
+                "is there a soft blanket in the image?"
+            ],
+            "entities": [
+                "cat",
+                "blanket"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The fluffy cat was lying on the soft blanket.\nDecomposable-Caption: [The fluffy cat] [was lying] [on the soft blanket]",
+        "id": 127
+    },
+    {
+        "prompt": "the white cat is lying on the brown sofa",
+        "parsed_input": {
+            "assertions": [
+                "there is a white cat in the image.",
+                "the cat is lying on the sofa.",
+                "there is a brown sofa in the image."
+            ],
+            "questions": [
+                "is there a white cat in the image?",
+                "is the cat lying on the sofa?",
+                "is there a brown sofa in the image?"
+            ],
+            "entities": [
+                "cat",
+                "sofa"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the white cat] [is lying] [on the brown sofa]",
+        "id": 128
+    },
+    {
+        "prompt": "the black phone was resting on the silver charger",
+        "parsed_input": {
+            "assertions": [
+                "there is a black phone in the image.",
+                "the phone is resting on the charger.",
+                "there is a silver charger in the image."
+            ],
+            "questions": [
+                "is there a black phone in the image?",
+                "is the phone resting on the charger?",
+                "is there a silver charger in the image?"
+            ],
+            "entities": [
+                "phone",
+                "charger"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The black phone was resting on the silver charger.\nDecomposable-Caption: [The black phone] [was resting] [on the silver charger]",
+        "id": 129
+    },
+    {
+        "prompt": "the silver fork was resting on the brown napkin",
+        "parsed_input": {
+            "assertions": [
+                "there is a silver fork in the image.",
+                "the fork is resting on something.",
+                "there is a brown napkin in the image."
+            ],
+            "questions": [
+                "is there a silver fork in the image?",
+                "is the fork resting on something?",
+                "is there a brown napkin in the image?"
+            ],
+            "entities": [
+                "fork",
+                "napkin"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the silver fork] [was resting] [on the brown napkin]",
+        "id": 130
+    },
+    {
+        "prompt": "the soft pink petals of the cherry blossom contrasted with the rough brown bark",
+        "parsed_input": {
+            "assertions": [
+                "there are soft pink petals of the cherry blossom in the image.",
+                "the petals contrast with the bark.",
+                "there is rough brown bark in the image."
+            ],
+            "questions": [
+                "are there soft pink petals of the cherry blossom in the image?",
+                "do the petals contrast with the bark?",
+                "is there rough brown bark in the image?"
+            ],
+            "entities": [
+                "petals of the cherry blossom",
+                "bark"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: the soft pink petals of the cherry blossom contrasted with the rough brown bark.\n\nDecomposable-Caption: [the soft pink petals of the cherry blossom] [contrasted with] [the rough brown bark]",
+        "id": 131
+    },
+    {
+        "prompt": "the rough brown bark of the tree contrasted with the smooth green leaves",
+        "parsed_input": {
+            "assertions": [
+                "there is rough brown bark of a tree in the image.",
+                "the bark of the tree contrasts with the leaves.",
+                "there are smooth green leaves in the image."
+            ],
+            "questions": [
+                "is there rough brown bark of a tree in the image?",
+                "does the bark of the tree contrast with the leaves?",
+                "are there smooth green leaves in the image?"
+            ],
+            "entities": [
+                "bark of the tree",
+                "leaves"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: the rough brown bark of the tree contrasted with the smooth green leaves\nDecomposable-Caption: [the rough brown bark of the tree] contrasted with [the smooth green leaves]",
+        "id": 132
+    },
+    {
+        "prompt": "the hot pink lipstick lay next to the shiny gold compact mirror",
+        "parsed_input": {
+            "assertions": [
+                "there is a hot pink lipstick in the image.",
+                "the lipstick lays next to the mirror.",
+                "there is a shiny gold compact mirror in the image."
+            ],
+            "questions": [
+                "is there a hot pink lipstick in the image?",
+                "is the lipstick laying next to the mirror?",
+                "is there a shiny gold compact mirror in the image?"
+            ],
+            "entities": [
+                "lipstick",
+                "mirror"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the hot pink lipstick] [lay next to] [the shiny gold compact mirror]",
+        "id": 133
+    },
+    {
+        "prompt": "the shiny silver watch lay next to the smooth black leather wallet",
+        "parsed_input": {
+            "assertions": [
+                "there is a shiny silver watch in the image.",
+                "the watch is laying next to the wallet.",
+                "there is a smooth black leather wallet in the image."
+            ],
+            "questions": [
+                "is there a shiny silver watch in the image?",
+                "is the watch laying next to the wallet?",
+                "is there a smooth black leather wallet in the image?"
+            ],
+            "entities": [
+                "watch",
+                "wallet"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the shiny silver watch] [lay next to] [the smooth black leather wallet]",
+        "id": 134
+    },
+    {
+        "prompt": "the soft yellow duckling swam next to the sleek black swan",
+        "parsed_input": {
+            "assertions": [
+                "there is a soft yellow duckling in the image.",
+                "the duckling is swimming next to the swan.",
+                "there is a sleek black swan in the image."
+            ],
+            "questions": [
+                "is there a soft yellow duckling in the image?",
+                "is the duckling swimming next to the swan?",
+                "is there a sleek black swan in the image?"
+            ],
+            "entities": [
+                "duckling",
+                "swan"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The soft yellow duckling swam next to the sleek black swan.\nDecomposable-Caption: [The soft yellow duckling] [swam next to] [the sleek black swan]",
+        "id": 135
+    },
+    {
+        "prompt": "the rough brown boots contrasted with the soft white snow",
+        "parsed_input": {
+            "assertions": [
+                "there are rough brown boots in the image.",
+                "the boots are contrasted with the snow.",
+                "there is soft white snow in the image."
+            ],
+            "questions": [
+                "are there rough brown boots in the image?",
+                "are the boots contrasted with the snow?",
+                "is there soft white snow in the image?"
+            ],
+            "entities": [
+                "boots",
+                "snow"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The rough brown boots contrasted with the soft white snow.\nDecomposable-Caption: [The rough brown boots] [contrasted with] [the soft white snow]",
+        "id": 136
+    },
+    {
+        "prompt": "the spicy curry simmered on the hot stove and the cool plate",
+        "parsed_input": {
+            "assertions": [
+                "there is a spicy curry in the image.",
+                "the curry is simmering on the hot stove.",
+                "there is a cool plate in the image."
+            ],
+            "questions": [
+                "is there a spicy curry in the image?",
+                "is the curry simmering on the hot stove?",
+                "is there a cool plate in the image?"
+            ],
+            "entities": [
+                "curry",
+                "stove",
+                "plate"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The spicy curry simmered on the hot stove and the cool plate.\nDecomposable-Caption: [The spicy curry] [simmered on the hot stove] and [the cool plate].",
+        "id": 137
+    },
+    {
+        "prompt": "the comfortable armchair embraced the tired body and the hard wooden floor",
+        "parsed_input": {
+            "assertions": [
+                "there is a comfortable armchair in the image.",
+                "the armchair is embracing the tired body.",
+                "there is a hard wooden floor in the image."
+            ],
+            "questions": [
+                "is there a comfortable armchair in the image?",
+                "is the armchair embracing the tired body?",
+                "is there a hard wooden floor in the image?"
+            ],
+            "entities": [
+                "armchair",
+                "body",
+                "floor"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The comfortable armchair embraced the tired body and the hard wooden floor.\nDecomposable-Caption: [The comfortable armchair] [embraced the tired body] and [the hard wooden floor].",
+        "id": 138
+    },
+    {
+        "prompt": "the crisp apple lay beside the rough stone and the silky fabric",
+        "parsed_input": {
+            "assertions": [
+                "there is a crisp apple in the image.",
+                "the apple lays beside the stone and the fabric.",
+                "there is a rough stone in the image.",
+                "there is a silky fabric in the image."
+            ],
+            "questions": [
+                "is there a crisp apple in the image?",
+                "does the apple lay beside the stone and the fabric?",
+                "is there a rough stone in the image?",
+                "is there a silky fabric in the image?"
+            ],
+            "entities": [
+                "apple",
+                "stone",
+                "fabric"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the crisp apple] [lay beside] [the rough stone] and [the silky fabric]",
+        "id": 139
+    },
+    {
+        "prompt": "the glossy apple sat next to the fuzzy peach and the prickly pear",
+        "parsed_input": {
+            "assertions": [
+                "there is a glossy apple in the image.",
+                "the apple is next to the peach and the pear.",
+                "there is a fuzzy peach in the image.",
+                "there is a prickly pear in the image."
+            ],
+            "questions": [
+                "is there a glossy apple in the image?",
+                "is the apple next to the peach and the pear?",
+                "is there a fuzzy peach in the image?",
+                "is there a prickly pear in the image?"
+            ],
+            "entities": [
+                "apple",
+                "peach",
+                "pear"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The glossy apple sat next to the fuzzy peach and the prickly pear.\nDecomposable-Caption: [The glossy apple] [sat next to] [the fuzzy peach] and [the prickly pear].",
+        "id": 140
+    },
+    {
+        "prompt": "the comfortable hammock swayed in the warm breeze and the cool shade",
+        "parsed_input": {
+            "assertions": [
+                "there is a comfortable hammock in the image.",
+                "the hammock is swaying.",
+                "the hammock is in the warm breeze.",
+                "the hammock is in the cool shade."
+            ],
+            "questions": [
+                "is there a comfortable hammock in the image?",
+                "is the hammock swaying?",
+                "is the hammock in the warm breeze?",
+                "is the hammock in the cool shade?"
+            ],
+            "entities": [
+                "hammock",
+                "warm breeze",
+                "cool shade"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: The comfortable hammock swayed in the warm breeze and the cool shade.\nDecomposable-Caption: [The comfortable hammock] [swayed] [in the warm breeze] and [the cool shade].",
+        "id": 141
+    },
+    {
+        "prompt": "the fragrant flowers bloomed on the sturdy stem and the thorny bush",
+        "parsed_input": {
+            "assertions": [
+                "there are fragrant flowers in the image.",
+                "the flowers bloomed on the stem.",
+                "the stem is sturdy.",
+                "the flowers also bloomed on the bush.",
+                "the bush is thorny."
+            ],
+            "questions": [
+                "are there fragrant flowers in the image?",
+                "did the flowers bloom on the stem?",
+                "is the stem sturdy?",
+                "did the flowers also bloom on the bush?",
+                "is the bush thorny?"
+            ],
+            "entities": [
+                "flowers",
+                "stem",
+                "bush"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable-Caption: [the fragrant flowers] [bloomed] [on the sturdy stem] and [the thorny bush]",
+        "id": 142
+    },
+    {
+        "prompt": "the rough bark scraped against the soft skin and the delicate flower",
+        "parsed_input": {
+            "assertions": [
+                "there is rough bark in the image.",
+                "the bark is scraping against something.",
+                "there is soft skin in the image.",
+                "there is a delicate flower in the image."
+            ],
+            "questions": [
+                "is there rough bark in the image?",
+                "is the bark scraping against something?",
+                "is there soft skin in the image?",
+                "is there a delicate flower in the image?"
+            ],
+            "entities": [
+                "bark",
+                "skin",
+                "flower"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The rough bark scraped against the soft skin and the delicate flower.\nDecomposable-Caption: [The rough bark] [scraped against] [the soft skin] and [the delicate flower].",
+        "id": 143
+    },
+    {
+        "prompt": "the smooth, rippled surface of the sand dunes undulated in the desert winds, a shifting landscape of natural wonder and awe",
+        "parsed_input": {
+            "assertions": [
+                "there is a smooth, rippled surface of the sand dunes in the image.",
+                "the sand dunes undulate in the desert winds.",
+                "there is a shifting landscape in the image.",
+                "the landscape is of natural wonder and awe."
+            ],
+            "questions": [
+                "is there a smooth, rippled surface of the sand dunes in the image?",
+                "do the sand dunes undulate in the desert winds?",
+                "is there a shifting landscape in the image?",
+                "is the landscape of natural wonder and awe?"
+            ],
+            "entities": [
+                "sand dunes",
+                "desert winds",
+                "shifting landscape",
+                "natural wonder and awe"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: the smooth, rippled surface of the sand dunes undulated in the desert winds, a shifting landscape of natural wonder and awe.\n\nDecomposable-Caption: [the smooth, rippled surface of the sand dunes] [undulated in the desert winds], [a shifting landscape] [of natural wonder and awe].",
+        "id": 144
+    },
+    {
+        "prompt": "the sharp, angular lines of the geometric sculpture were a study in contrast and form",
+        "parsed_input": {
+            "assertions": [
+                "there are sharp, angular lines in the image.",
+                "the lines are part of a geometric sculpture.",
+                "the sculpture is a study in contrast and form."
+            ],
+            "questions": [
+                "are there sharp, angular lines in the image?",
+                "are the lines part of a geometric sculpture?",
+                "is the sculpture a study in contrast and form?"
+            ],
+            "entities": [
+                "lines",
+                "geometric sculpture"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Decomposable Caption: [the sharp, angular lines] of [the geometric sculpture] were [a study] in [contrast] and [form]",
+        "id": 145
+    },
+    {
+        "prompt": "the bold, striking patterns of the tiger's stripes blended seamlessly with the dappled light of the jungle, a creature of stealth and beauty",
+        "parsed_input": {
+            "assertions": [
+                "there are bold, striking patterns of the tiger's stripes in the image.",
+                "the tiger's stripes blend seamlessly with the dappled light of the jungle.",
+                "the tiger is a creature of stealth and beauty."
+            ],
+            "questions": [
+                "are there bold, striking patterns of the tiger's stripes in the image?",
+                "do the tiger's stripes blend seamlessly with the dappled light of the jungle?",
+                "is the tiger a creature of stealth and beauty?"
+            ],
+            "entities": [
+                "tiger's stripes",
+                "dappled light of the jungle"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The bold, striking patterns of the tiger's stripes blended seamlessly with the dappled light of the jungle, a creature of stealth and beauty.\n\nDecomposable-Caption: [The bold, striking patterns of the tiger's stripes] [blended seamlessly with the dappled light of the jungle], [a creature of stealth and beauty].",
+        "id": 146
+    },
+    {
+        "prompt": "the sleek, black sports car sped down the winding country road, leaving a trail of dust in its wake",
+        "parsed_input": {
+            "assertions": [
+                "there is a sleek, black sports car in the image.",
+                "the sports car is speeding down a road.",
+                "the road is winding and in the country.",
+                "the car is leaving a trail of dust.",
+                "there is a trail of dust in the car's wake."
+            ],
+            "questions": [
+                "is there a sleek, black sports car in the image?",
+                "is the sports car speeding down a road?",
+                "is the road winding and in the country?",
+                "is the car leaving a trail of dust?",
+                "is there a trail of dust in the car's wake?"
+            ],
+            "entities": [
+                "sports car",
+                "road",
+                "dust"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: The sleek, black sports car sped down the winding country road, leaving a trail of dust in its wake.\nDecomposable-Caption: [The sleek, black sports car] [sped down] [the winding country road], [leaving a trail of dust] [in its wake].",
+        "id": 147
+    },
+    {
+        "prompt": "the sharp, angular lines of the modern architecture contrasted with the natural landscape, a melding of human innovation and natural beauty",
+        "parsed_input": {
+            "assertions": [
+                "there are sharp, angular lines of the modern architecture in the image.",
+                "the modern architecture contrasts with the natural landscape.",
+                "the image shows a melding of human innovation and natural beauty."
+            ],
+            "questions": [
+                "are there sharp, angular lines of the modern architecture in the image?",
+                "does the modern architecture contrast with the natural landscape?",
+                "does the image show a melding of human innovation and natural beauty?"
+            ],
+            "entities": [
+                "modern architecture",
+                "natural landscape"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "noun"
+            ]
+        },
+        "decompose_pormpt": "Caption: the sharp, angular lines of the modern architecture contrasted with the natural landscape, a melding of human innovation and natural beauty.\nDecomposable-Caption: [the sharp, angular lines of the modern architecture] [contrasted with the natural landscape], [a melding of human innovation and natural beauty].",
+        "id": 148
+    },
+    {
+        "prompt": "the smooth, cool surface of the river rocks were perfect for skipping across the water's surface",
+        "parsed_input": {
+            "assertions": [
+                "there are smooth, cool river rocks in the image.",
+                "the river rocks are perfect for skipping.",
+                "the rocks are skipping across the water's surface."
+            ],
+            "questions": [
+                "are there smooth, cool river rocks in the image?",
+                "are the river rocks perfect for skipping?",
+                "are the rocks skipping across the water's surface?"
+            ],
+            "entities": [
+                "river rocks",
+                "water's surface"
+            ],
+            "type": [
+                "noun",
+                "relation",
+                "relation"
+            ]
+        },
+        "decompose_pormpt": "Caption: the smooth, cool surface of the river rocks were perfect for skipping across the water's surface.\n\nDecomposable-Caption: [the smooth, cool surface of the river rocks] [were perfect for skipping] [across the water's surface]",
+        "id": 149
+    }
+]

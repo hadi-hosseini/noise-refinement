@@ -1,0 +1,54 @@
+Given a caption in decomposable format: {}. Provide the following as ordered-lists (left to right):
+Assertions: Express each decomposition as an assertion about the image. Each assertion should be a proper sentence but be as simple as possible.
+Questions: Express each assertion as a question about the image with (yes or no) answer.
+Type: Specify the type of each assertion. (noun or relation)
+
+Examples format:
+**Very Important** strictly adhere to the following format and outputs should be lists of **equal** lengths (except entities).
+Caption: "[A brown dog] [fetching a frisbee] [in a park]"
+
+Assertions:
+1. There is a brown dog in the image.
+2. The dog is fetching a frisbee.
+3. There is a frisbee in the image.
+
+Questions:
+1. Is there a brown dog in the image?
+2. Is the dog is fetching a frisbee?
+3. Is there a frisbee in the image?
+
+Entities:
+1. dog
+2. frisbee
+3. park
+
+Type:
+1. noun
+2. relation
+3. noun
+
+Examples format:
+**Very Important** strictly adhere to the following format and outputs should be lists of **equal** lengths (except entities).
+Caption: "[the soft pillow] [on top of] [the hard rocking chair]"
+
+
+Assertions:
+1. There is a soft pillow in the image.
+2. The pillow is on top of chair.
+3. There is a hard rocking chair in the image.
+
+Questions:
+1. Is there a soft pillow in the image?
+2. Is the pillow on top of chair?
+3. Is there a hard rocking chair in the image?
+
+Entities:
+1. pillow
+2. chair
+
+Type:
+1. noun
+2. relation
+3. noun
+
+Answer as concisely as possible.

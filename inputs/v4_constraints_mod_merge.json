@@ -1,0 +1,2737 @@
+{
+    "0": {
+        "prompt": "a brown backpack and a blue cow",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "brown",
+                "entity": "backpack"
+            },
+            {
+                "adjective": "blue",
+                "entity": "cow"
+            }
+        ],
+        "spatial": []
+    },
+    "1": {
+        "prompt": "a brown bear and a red book",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "brown",
+                "entity": "bear"
+            },
+            {
+                "adjective": "red",
+                "entity": "book"
+            }
+        ],
+        "spatial": []
+    },
+    "2": {
+        "prompt": "a red bear and a brown book",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "bear"
+            },
+            {
+                "adjective": "brown",
+                "entity": "book"
+            }
+        ],
+        "spatial": []
+    },
+    "3": {
+        "prompt": "a green banana and a brown dog",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "brown",
+                "entity": "dog"
+            }
+        ],
+        "spatial": []
+    },
+    "4": {
+        "prompt": "a blue cake and a red suitcase",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "cake"
+            },
+            {
+                "adjective": "red",
+                "entity": "suitcase"
+            }
+        ],
+        "spatial": []
+    },
+    "5": {
+        "prompt": "a green banana and a red suitcase",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "banana"
+            },
+            {
+                "adjective": "red",
+                "entity": "suitcase"
+            }
+        ],
+        "spatial": []
+    },
+    "6": {
+        "prompt": "a brown sheep and a blue vase",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "brown",
+                "entity": "sheep"
+            },
+            {
+                "adjective": "blue",
+                "entity": "vase"
+            }
+        ],
+        "spatial": []
+    },
+    "7": {
+        "prompt": "a brown cat and a gold clock",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "brown",
+                "entity": "cat"
+            },
+            {
+                "adjective": "gold",
+                "entity": "clock"
+            }
+        ],
+        "spatial": []
+    },
+    "8": {
+        "prompt": "a brown dog and a red orange",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "brown",
+                "entity": "dog"
+            },
+            {
+                "adjective": "red",
+                "entity": "orange"
+            }
+        ],
+        "spatial": []
+    },
+    "9": {
+        "prompt": "a blue bear and a brown vase",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "bear"
+            },
+            {
+                "adjective": "brown",
+                "entity": "vase"
+            }
+        ],
+        "spatial": []
+    },
+    "10": {
+        "prompt": "a red backpack and a blue car",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "backpack"
+            },
+            {
+                "adjective": "blue",
+                "entity": "car"
+            }
+        ],
+        "spatial": []
+    },
+    "11": {
+        "prompt": "a blue giraffe and a brown vase",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "blue",
+                "entity": "giraffe"
+            },
+            {
+                "adjective": "brown",
+                "entity": "vase"
+            }
+        ],
+        "spatial": []
+    },
+    "12": {
+        "prompt": "a brown chair and a red sheep",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "brown",
+                "entity": "chair"
+            },
+            {
+                "adjective": "red",
+                "entity": "sheep"
+            }
+        ],
+        "spatial": []
+    },
+    "13": {
+        "prompt": "a brown acorn and a green leaf",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "brown",
+                "entity": "acorn"
+            },
+            {
+                "adjective": "green",
+                "entity": "leaf"
+            }
+        ],
+        "spatial": []
+    },
+    "14": {
+        "prompt": "a black cat and a white paw",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "black",
+                "entity": "cat"
+            },
+            {
+                "adjective": "white",
+                "entity": "paw"
+            }
+        ],
+        "spatial": []
+    },
+    "15": {
+        "prompt": "a green tree and a brown grass",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "tree"
+            },
+            {
+                "adjective": "brown",
+                "entity": "grass"
+            }
+        ],
+        "spatial": []
+    },
+    "16": {
+        "prompt": "a white moon and a black sky",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "white",
+                "entity": "moon"
+            },
+            {
+                "adjective": "black",
+                "entity": "sky"
+            }
+        ],
+        "spatial": []
+    },
+    "17": {
+        "prompt": "a red school bus and a green bag",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "red",
+                "entity": "school bus"
+            },
+            {
+                "adjective": "school",
+                "entity": "bus"
+            },
+            {
+                "adjective": "green",
+                "entity": "bag"
+            }
+        ],
+        "spatial": []
+    },
+    "18": {
+        "prompt": "a yellow rabbit and a red rat",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "yellow",
+                "entity": "rabbit"
+            },
+            {
+                "adjective": "red",
+                "entity": "rat"
+            }
+        ],
+        "spatial": []
+    },
+    "19": {
+        "prompt": "a small white kitchen with brown wood floor",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "small",
+                "entity": "kitchen"
+            },
+            {
+                "adjective": "white",
+                "entity": "kitchen"
+            },
+            {
+                "adjective": "brown",
+                "entity": "floor"
+            },
+            {
+                "adjective": "wood",
+                "entity": "floor"
+            }
+        ],
+        "spatial": []
+    },
+    "20": {
+        "prompt": "bathroom scene with white background and tan accents",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "white",
+                "entity": "background"
+            },
+            {
+                "adjective": "tan",
+                "entity": "accents"
+            }
+        ],
+        "spatial": []
+    },
+    "21": {
+        "prompt": "a bathroom with green tile and a red shower curtain",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "green",
+                "entity": "tile"
+            },
+            {
+                "adjective": "red",
+                "entity": "shower curtain"
+            },
+            {
+                "adjective": "shower",
+                "entity": "curtain"
+            }
+        ],
+        "spatial": []
+    },
+    "22": {
+        "prompt": "a black and white cat sits in a white sink",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "cat",
+                "verb": "sits",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "black",
+                "entity": "cat"
+            },
+            {
+                "adjective": "white",
+                "entity": "cat"
+            },
+            {
+                "adjective": "white",
+                "entity": "sink"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "cat",
+                "spatial": "in",
+                "entity": "sink"
+            }
+        ]
+    },
+    "23": {
+        "prompt": "a blue scooter is parked near a curb in front of a green vintage car",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "scooter",
+                "verb": "parked",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "blue",
+                "entity": "scooter"
+            },
+            {
+                "adjective": "green",
+                "entity": "car"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "scooter",
+                "spatial": "near",
+                "entity": "curb"
+            },
+            {
+                "subject": "scooter",
+                "spatial": "in front of",
+                "entity": "car"
+            }
+        ]
+    },
+    "24": {
+        "prompt": "the white and yellow clock with a red roof reads 11",
+        "overlap": [
+            {
+                "subject": "clock",
+                "verb": "reads",
+                "object": "11",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "adjective": "white",
+                "entity": "clock"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "clock"
+            },
+            {
+                "adjective": "red",
+                "entity": "roof"
+            }
+        ],
+        "spatial": []
+    },
+    "25": {
+        "prompt": "a diamond pendant and a round locket",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "diamond",
+                "entity": "pendant"
+            },
+            {
+                "adjective": "round",
+                "entity": "locket"
+            }
+        ],
+        "spatial": []
+    },
+    "26": {
+        "prompt": "an oval sink and a rectangular mirror",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "oval",
+                "entity": "sink"
+            },
+            {
+                "adjective": "rectangular",
+                "entity": "mirror"
+            }
+        ],
+        "spatial": []
+    },
+    "27": {
+        "prompt": "an oval coffee table and a rectangular rug",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "oval",
+                "entity": "coffee table"
+            },
+            {
+                "adjective": "coffee",
+                "entity": "table"
+            },
+            {
+                "adjective": "rectangular",
+                "entity": "rug"
+            }
+        ],
+        "spatial": []
+    },
+    "28": {
+        "prompt": "a cubic block and a cylindrical container of hand cream",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "cubic",
+                "entity": "block"
+            },
+            {
+                "adjective": "cylindrical",
+                "entity": "container"
+            }
+        ],
+        "spatial": []
+    },
+    "29": {
+        "prompt": "a big hippopotamus and a small mouse",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "big",
+                "entity": "hippopotamus"
+            },
+            {
+                "adjective": "small",
+                "entity": "mouse"
+            }
+        ],
+        "spatial": []
+    },
+    "30": {
+        "prompt": "a rectangular mirror and a spherical magnifying glass",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rectangular",
+                "entity": "mirror"
+            },
+            {
+                "adjective": "spherical",
+                "entity": "magnifying glass"
+            },
+            {
+                "adjective": "magnifying",
+                "entity": "glass"
+            }
+        ],
+        "spatial": []
+    },
+    "31": {
+        "prompt": "a round pizza and a rectangular piece of lasagna",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "round",
+                "entity": "pizza"
+            },
+            {
+                "adjective": "rectangular",
+                "entity": "piece lasagna"
+            },
+            {
+                "adjective": "piece",
+                "entity": "lasagna"
+            }
+        ],
+        "spatial": []
+    },
+    "32": {
+        "prompt": "a big tiger and a small kitten",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "big",
+                "entity": "tiger"
+            },
+            {
+                "adjective": "small",
+                "entity": "kitten"
+            }
+        ],
+        "spatial": []
+    },
+    "33": {
+        "prompt": "an oblong carrot and a teardrop peach",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "oblong",
+                "entity": "carrot"
+            },
+            {
+                "adjective": "teardrop",
+                "entity": "peach"
+            }
+        ],
+        "spatial": []
+    },
+    "34": {
+        "prompt": "a big bear and a small rabbit",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "big",
+                "entity": "bear"
+            },
+            {
+                "adjective": "small",
+                "entity": "rabbit"
+            }
+        ],
+        "spatial": []
+    },
+    "35": {
+        "prompt": "a cubic block and a cylindrical container of markers",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "cubic",
+                "entity": "block"
+            },
+            {
+                "adjective": "cylindrical",
+                "entity": "container"
+            }
+        ],
+        "spatial": []
+    },
+    "36": {
+        "prompt": "a circular pendant light and a triangular wall hook",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "circular",
+                "entity": "pendant light"
+            },
+            {
+                "adjective": "pendant",
+                "entity": "light"
+            },
+            {
+                "adjective": "triangular",
+                "entity": "wall hook"
+            },
+            {
+                "adjective": "wall",
+                "entity": "hook"
+            }
+        ],
+        "spatial": []
+    },
+    "37": {
+        "prompt": "a round bagel and a square toaster",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "round",
+                "entity": "bagel"
+            },
+            {
+                "adjective": "square",
+                "entity": "toaster"
+            }
+        ],
+        "spatial": []
+    },
+    "38": {
+        "prompt": "a small stop sign and a pyramidal paperweight",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "small",
+                "entity": "stop sign"
+            },
+            {
+                "adjective": "stop",
+                "entity": "sign"
+            },
+            {
+                "adjective": "pyramidal",
+                "entity": "paperweight"
+            }
+        ],
+        "spatial": []
+    },
+    "39": {
+        "prompt": "an oval bathtub and a rectangular soap dish",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "oval",
+                "entity": "bathtub"
+            },
+            {
+                "adjective": "rectangular",
+                "entity": "soap dish"
+            },
+            {
+                "adjective": "soap",
+                "entity": "dish"
+            }
+        ],
+        "spatial": []
+    },
+    "40": {
+        "prompt": "an oval platter and a rectangular tablecloth",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "oval",
+                "entity": "platter"
+            },
+            {
+                "adjective": "rectangular",
+                "entity": "tablecloth"
+            }
+        ],
+        "spatial": []
+    },
+    "41": {
+        "prompt": "an oval dining table and a square dining chair",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "oval",
+                "entity": "dining table"
+            },
+            {
+                "adjective": "dining",
+                "entity": "table"
+            },
+            {
+                "adjective": "square",
+                "entity": "dining chair"
+            },
+            {
+                "adjective": "dining",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "42": {
+        "prompt": "a pentagonal chocolate box and a spherical chocolate truffle",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "pentagonal",
+                "entity": "chocolate box"
+            },
+            {
+                "adjective": "chocolate",
+                "entity": "box"
+            },
+            {
+                "adjective": "spherical",
+                "entity": "chocolate truffle"
+            },
+            {
+                "adjective": "chocolate",
+                "entity": "truffle"
+            }
+        ],
+        "spatial": []
+    },
+    "43": {
+        "prompt": "a long necklace and a short earring",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "shiny",
+                "entity": "coin"
+            },
+            {
+                "adjective": "rusty",
+                "entity": "key"
+            }
+        ],
+        "spatial": []
+    },
+    "44": {
+        "prompt": "an oblong potato and a teardrop plum",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "oblong",
+                "entity": "potato"
+            },
+            {
+                "adjective": "teardrop",
+                "entity": "plum"
+            }
+        ],
+        "spatial": []
+    },
+    "45": {
+        "prompt": "the oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room",
+        "overlap": [
+            {
+                "subject": "vase",
+                "verb": "displayed",
+                "object": "flowers",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "adjective": "oblong",
+                "entity": "vase"
+            },
+            {
+                "adjective": "diamond",
+                "entity": "pattern"
+            },
+            {
+                "adjective": "circular",
+                "entity": "mouth"
+            },
+            {
+                "adjective": "conical",
+                "entity": "corner"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "vase",
+                "spatial": "in",
+                "entity": "corner"
+            }
+        ]
+    },
+    "46": {
+        "prompt": "the spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "spherical",
+                "entity": "ball"
+            },
+            {
+                "adjective": "pentagonal",
+                "entity": "pyramid"
+            }
+        ],
+        "spatial": []
+    },
+    "47": {
+        "prompt": "the conical hat and the spherical ball were the objects of attention in the magic show",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "conical",
+                "entity": "hat"
+            },
+            {
+                "adjective": "spherical",
+                "entity": "ball"
+            }
+        ],
+        "spatial": []
+    },
+    "48": {
+        "prompt": "the oblong painting and the circular sculpture were the centerpieces of the art exhibit",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "painting and sculpture",
+                "verb": "were",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "oblong",
+                "entity": "painting"
+            },
+            {
+                "adjective": "circular",
+                "entity": "sculpture"
+            }
+        ],
+        "spatial": []
+    },
+    "49": {
+        "prompt": "the long dress and the short skirt were both fashionable choices",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "long",
+                "entity": "dress"
+            },
+            {
+                "adjective": "short",
+                "entity": "skirt"
+            }
+        ],
+        "spatial": []
+    },
+    "50": {
+        "prompt": "a rubber ball and a leather wallet",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rubber",
+                "entity": "ball"
+            },
+            {
+                "adjective": "leather",
+                "entity": "wallet"
+            }
+        ],
+        "spatial": []
+    },
+    "51": {
+        "prompt": "a wooden spoon and a fabric rug",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "wooden",
+                "entity": "spoon"
+            },
+            {
+                "adjective": "fabric",
+                "entity": "rug"
+            }
+        ],
+        "spatial": []
+    },
+    "52": {
+        "prompt": "fluffy clouds and a glass table",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "fluffy",
+                "entity": "clouds"
+            },
+            {
+                "adjective": "glass",
+                "entity": "table"
+            }
+        ],
+        "spatial": []
+    },
+    "53": {
+        "prompt": "a wooden door and a fluffy blanket",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "wooden",
+                "entity": "door"
+            },
+            {
+                "adjective": "fluffy",
+                "entity": "blanket"
+            }
+        ],
+        "spatial": []
+    },
+    "54": {
+        "prompt": "a wooden table and a leather belt",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "wooden",
+                "entity": "table"
+            },
+            {
+                "adjective": "leather",
+                "entity": "belt"
+            }
+        ],
+        "spatial": []
+    },
+    "55": {
+        "prompt": "a metallic fork and a fabric dress",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "metallic",
+                "entity": "fork"
+            },
+            {
+                "adjective": "fabric",
+                "entity": "dress"
+            }
+        ],
+        "spatial": []
+    },
+    "56": {
+        "prompt": "a metallic watch and a fluffy sweater",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "metallic",
+                "entity": "watch"
+            },
+            {
+                "adjective": "fluffy",
+                "entity": "sweater"
+            }
+        ],
+        "spatial": []
+    },
+    "57": {
+        "prompt": "a plastic container and a fluffy teddy bear",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "plastic",
+                "entity": "container"
+            },
+            {
+                "adjective": "fluffy",
+                "entity": "teddy bear"
+            },
+            {
+                "adjective": "teddy",
+                "entity": "bear"
+            }
+        ],
+        "spatial": []
+    },
+    "58": {
+        "prompt": "a metallic knife and a glass jar",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "metallic",
+                "entity": "knife"
+            },
+            {
+                "adjective": "glass",
+                "entity": "jar"
+            }
+        ],
+        "spatial": []
+    },
+    "59": {
+        "prompt": "a rubber band and a fabric blanket",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rubber",
+                "entity": "band"
+            },
+            {
+                "adjective": "fabric",
+                "entity": "blanket"
+            }
+        ],
+        "spatial": []
+    },
+    "60": {
+        "prompt": "a rubber band and a fabric curtain",
+        "overlap": [],
+        "subset": [],
+        "spatial": []
+    },
+    "61": {
+        "prompt": "rubber gloves and a plastic toy",
+        "overlap": [],
+        "subset": [],
+        "spatial": []
+    },
+    "62": {
+        "prompt": "a metallic keychain and a wooden jewelry box",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "metallic",
+                "entity": "keychain"
+            },
+            {
+                "adjective": "wooden",
+                "entity": "jewelry box"
+            },
+            {
+                "adjective": "jewelry",
+                "entity": "box"
+            }
+        ],
+        "spatial": []
+    },
+    "63": {
+        "prompt": "a rubber eraser and a plastic chair",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rubber",
+                "entity": "eraser"
+            },
+            {
+                "adjective": "plastic",
+                "entity": "chair"
+            }
+        ],
+        "spatial": []
+    },
+    "64": {
+        "prompt": "a rubber eraser and a metallic keychain",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rubber",
+                "entity": "eraser"
+            },
+            {
+                "adjective": "metallic",
+                "entity": "keychain"
+            }
+        ],
+        "spatial": []
+    },
+    "65": {
+        "prompt": "a rubber eraser and a wooden picture frame",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rubber",
+                "entity": "eraser"
+            },
+            {
+                "adjective": "wooden",
+                "entity": "picture frame"
+            },
+            {
+                "adjective": "picture",
+                "entity": "frame"
+            }
+        ],
+        "spatial": []
+    },
+    "66": {
+        "prompt": "a rubber band and a fabric towel",
+        "overlap": [],
+        "subset": [],
+        "spatial": []
+    },
+    "67": {
+        "prompt": "a fluffy hat and a glass plate",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "fluffy",
+                "entity": "hat"
+            }
+        ],
+        "spatial": []
+    },
+    "68": {
+        "prompt": "a metallic bracelet and a leather hat",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "metallic",
+                "entity": "bracelet"
+            },
+            {
+                "adjective": "leather",
+                "entity": "hat"
+            }
+        ],
+        "spatial": []
+    },
+    "69": {
+        "prompt": "rubber mat and a fluffy scarf",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "fluffy",
+                "entity": "scarf"
+            }
+        ],
+        "spatial": []
+    },
+    "70": {
+        "prompt": "the glass vase and metallic stand display the wooden flowers on the fabric dresser",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "glass",
+                "entity": "vase"
+            },
+            {
+                "adjective": "metallic",
+                "entity": "stand"
+            },
+            {
+                "adjective": "wooden",
+                "entity": "flowers"
+            },
+            {
+                "adjective": "fabric",
+                "entity": "dresser"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "vase",
+                "spatial": "on",
+                "entity": "stand"
+            },
+            {
+                "subject": "flowers",
+                "spatial": "on",
+                "entity": "dresser"
+            }
+        ]
+    },
+    "71": {
+        "prompt": "the fluffy cat and leather collar nap on the wooden windowsill next to the glass vase",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "fluffy",
+                "entity": "cat"
+            },
+            {
+                "adjective": "leather",
+                "entity": "collar"
+            },
+            {
+                "adjective": "wooden",
+                "entity": "windowsill"
+            },
+            {
+                "adjective": "glass",
+                "entity": "vase"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "cat",
+                "spatial": "on",
+                "entity": "windowsill"
+            },
+            {
+                "subject": "collar",
+                "spatial": "on",
+                "entity": "windowsill"
+            },
+            {
+                "subject": "windowsill",
+                "spatial": "next to",
+                "entity": "vase"
+            }
+        ]
+    },
+    "72": {
+        "prompt": "the wooden birdhouse and glass bird feeder attract the metallic birds on the fabric tree",
+        "overlap": [
+            {
+                "subject": "birdhouse and feeder",
+                "verb": "attract",
+                "object": "birds",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "adjective": "wooden",
+                "entity": "birdhouse"
+            },
+            {
+                "adjective": "glass",
+                "entity": "bird feeder"
+            },
+            {
+                "adjective": "metallic",
+                "entity": "birds"
+            },
+            {
+                "adjective": "fabric",
+                "entity": "tree"
+            }
+        ],
+        "spatial": []
+    },
+    "73": {
+        "prompt": "the leather belt and fluffy hat hang on the metallic hook by the glass door",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "belt and hat",
+                "verb": "hang",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "leather",
+                "entity": "belt"
+            },
+            {
+                "adjective": "fluffy",
+                "entity": "hat"
+            },
+            {
+                "adjective": "metallic",
+                "entity": "hook"
+            },
+            {
+                "adjective": "glass",
+                "entity": "door"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "belt",
+                "spatial": "on",
+                "entity": "hook"
+            },
+            {
+                "subject": "hat",
+                "spatial": "on",
+                "entity": "hook"
+            },
+            {
+                "subject": "hook",
+                "spatial": "by",
+                "entity": "door"
+            }
+        ]
+    },
+    "74": {
+        "prompt": "the glass jar and fluffy ribbon hold the metallic candy on the wooden table",
+        "overlap": [
+            {
+                "subject": "jar and ribbon",
+                "verb": "hold",
+                "object": "candy",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "adjective": "glass",
+                "entity": "jar"
+            },
+            {
+                "adjective": "fluffy",
+                "entity": "ribbon"
+            },
+            {
+                "adjective": "metallic",
+                "entity": "candy"
+            },
+            {
+                "adjective": "wooden",
+                "entity": "table"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "jar",
+                "spatial": "on",
+                "entity": "table"
+            }
+        ]
+    },
+    "75": {
+        "prompt": "a desk on the right of a horse",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "desk",
+                "spatial": "on the right of",
+                "entity": "horse"
+            }
+        ]
+    },
+    "76": {
+        "prompt": "a table on the bottom of a dog",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "table",
+                "spatial": "on the bottom of",
+                "entity": "dog"
+            }
+        ]
+    },
+    "77": {
+        "prompt": "a boy on the left of a balloon",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "boy",
+                "spatial": "on the left of",
+                "entity": "balloon"
+            }
+        ]
+    },
+    "78": {
+        "prompt": "a bird on the left of a clock",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "bird",
+                "spatial": "on the left of",
+                "entity": "clock"
+            }
+        ]
+    },
+    "79": {
+        "prompt": "a cat next to a suitcase",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "cat",
+                "spatial": "next to",
+                "entity": "suitcase"
+            }
+        ]
+    },
+    "80": {
+        "prompt": "a man on the left of a lamp",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "man",
+                "spatial": "on the left of",
+                "entity": "lamp"
+            }
+        ]
+    },
+    "81": {
+        "prompt": "a vase on the right of a cat",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "vase",
+                "spatial": "on the right of",
+                "entity": "cat"
+            }
+        ]
+    },
+    "82": {
+        "prompt": "a woman on the top of a painting",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "woman",
+                "spatial": "on top of",
+                "entity": "painting"
+            }
+        ]
+    },
+    "83": {
+        "prompt": "a rabbit on the bottom of a chair",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "rabbit",
+                "spatial": "on the bottom of",
+                "entity": "chair"
+            }
+        ]
+    },
+    "84": {
+        "prompt": "a dog on the bottom of a balloon",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "dog",
+                "spatial": "on the bottom of",
+                "entity": "balloon"
+            }
+        ]
+    },
+    "85": {
+        "prompt": "a rabbit on the right of a wallet",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "rabbit",
+                "spatial": "on the right of",
+                "entity": "wallet"
+            }
+        ]
+    },
+    "86": {
+        "prompt": "a giraffe near a computer",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "giraffe",
+                "spatial": "near",
+                "entity": "computer"
+            }
+        ]
+    },
+    "87": {
+        "prompt": "a key on the right of a dog",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "key",
+                "spatial": "on the right of",
+                "entity": "dog"
+            }
+        ]
+    },
+    "88": {
+        "prompt": "a suitcase on the right of a cow",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "suitcase",
+                "spatial": "on the right of",
+                "entity": "cow"
+            }
+        ]
+    },
+    "89": {
+        "prompt": "a bird on side of a balloon",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "bird",
+                "spatial": "on side of",
+                "entity": "balloon"
+            }
+        ]
+    },
+    "90": {
+        "prompt": "a bowl on the bottom of a frog",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "bowl",
+                "spatial": "on the bottom of",
+                "entity": "frog"
+            }
+        ]
+    },
+    "91": {
+        "prompt": "a girl on the right of a sofa",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "girl",
+                "spatial": "on the right of",
+                "entity": "sofa"
+            }
+        ]
+    },
+    "92": {
+        "prompt": "a butterfly on the right of a wallet",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "butterfly",
+                "spatial": "on the right of",
+                "entity": "wallet"
+            }
+        ]
+    },
+    "93": {
+        "prompt": "a woman on the top of a microwave",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "woman",
+                "spatial": "on top of",
+                "entity": "microwave"
+            }
+        ]
+    },
+    "94": {
+        "prompt": "a mouse on the top of a bowl",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "mouse",
+                "spatial": "on top of",
+                "entity": "bowl"
+            }
+        ]
+    },
+    "95": {
+        "prompt": "a woman on the left of a horse",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "woman",
+                "spatial": "on the left of",
+                "entity": "horse"
+            }
+        ]
+    },
+    "96": {
+        "prompt": "a cat on the top of a candle",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "cat",
+                "spatial": "on top of",
+                "entity": "candle"
+            }
+        ]
+    },
+    "97": {
+        "prompt": "a frog on the left of a table",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "frog",
+                "spatial": "on the left of",
+                "entity": "table"
+            }
+        ]
+    },
+    "98": {
+        "prompt": "a sheep on the bottom of a painting",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "sheep",
+                "spatial": "on the bottom of",
+                "entity": "painting"
+            }
+        ]
+    },
+    "99": {
+        "prompt": "a mouse on side of a bag",
+        "overlap": [],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "mouse",
+                "spatial": "on side of",
+                "entity": "bag"
+            }
+        ]
+    },
+    "100": {
+        "prompt": "a child is running around a playground and playing with friends",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "child",
+                "verb": "running",
+                "verb_type": "intransitive"
+            },
+            {
+                "subject": "child",
+                "verb": "playing",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": []
+    },
+    "101": {
+        "prompt": "the science fiction writer is creating a futuristic world in their book",
+        "overlap": [
+            {
+                "subject": "writer",
+                "verb": "creating",
+                "object": "world",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "adjective": "science fiction",
+                "entity": "writer"
+            },
+            {
+                "adjective": "futuristic",
+                "entity": "world"
+            }
+        ],
+        "spatial": []
+    },
+    "102": {
+        "prompt": "a person is wearing a hat and sunglasses while fishing",
+        "overlap": [
+            {
+                "subject": "person",
+                "verb": "wearing",
+                "object": "hat",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "person",
+                "verb": "wearing",
+                "object": "sunglasses",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "subject": "person",
+                "verb": "fishing",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": []
+    },
+    "103": {
+        "prompt": "a parent is comforting their child after a bad dream, holding them close and soothing their fears",
+        "overlap": [
+            {
+                "subject": "parent",
+                "verb": "comforting",
+                "object": "child",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "parent",
+                "verb": "holding",
+                "object": "them",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "parent",
+                "verb": "soothing",
+                "object": "fears",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "104": {
+        "prompt": "a dog is chasing its tail and having a playful moment",
+        "overlap": [
+            {
+                "subject": "dog",
+                "verb": "chasing",
+                "object": "tail",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "dog",
+                "verb": "having",
+                "object": "moment",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "105": {
+        "prompt": "a woman is holding a bouquet of flowers and smiling with happiness",
+        "overlap": [
+            {
+                "subject": "woman",
+                "verb": "holding",
+                "object": "bouquet",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "subject": "woman",
+                "verb": "smiling",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": []
+    },
+    "106": {
+        "prompt": "a child is carefully planting a seed in the garden, hoping it will grow into a beautiful flower",
+        "overlap": [
+            {
+                "subject": "child",
+                "verb": "planting",
+                "object": "seed",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "107": {
+        "prompt": "a boat is sailing on a lake",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "boat",
+                "verb": "sailing",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "boat",
+                "spatial": "on",
+                "entity": "lake"
+            }
+        ]
+    },
+    "108": {
+        "prompt": "a baby is holding onto their mother's finger",
+        "overlap": [
+            {
+                "subject": "baby",
+                "verb": "holding",
+                "object": "finger",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "109": {
+        "prompt": "a couple is enjoying a picnic in the park",
+        "overlap": [
+            {
+                "subject": "couple",
+                "verb": "enjoying",
+                "object": "picnic",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "couple",
+                "spatial": "in",
+                "entity": "park"
+            }
+        ]
+    },
+    "110": {
+        "prompt": "a child is playing with a toy kitchen and making imaginary meals",
+        "overlap": [
+            {
+                "subject": "child",
+                "verb": "playing",
+                "object": "kitchen",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "child",
+                "verb": "making",
+                "object": "meals",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "111": {
+        "prompt": "a woman is practicing archery in a field",
+        "overlap": [
+            {
+                "subject": "woman",
+                "verb": "practicing",
+                "object": "archery",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "112": {
+        "prompt": "the mechanic is repairing a car in the garage",
+        "overlap": [
+            {
+                "subject": "mechanic",
+                "verb": "repairing",
+                "object": "car",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": [
+            {
+                "subject": "mechanic",
+                "spatial": "in",
+                "entity": "garage"
+            }
+        ]
+    },
+    "113": {
+        "prompt": "a child is playing with a bubble wand and blowing bubbles in the sunshine",
+        "overlap": [
+            {
+                "subject": "child",
+                "verb": "playing",
+                "object": "wand",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "child",
+                "verb": "blowing",
+                "object": "bubbles",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "114": {
+        "prompt": "a person is walking with a backpack and exploring a new city",
+        "overlap": [
+            {
+                "subject": "person",
+                "verb": "exploring",
+                "object": "city",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "subject": "person",
+                "verb": "walking",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": []
+    },
+    "115": {
+        "prompt": "the painter is putting a fresh coat of paint on the walls",
+        "overlap": [
+            {
+                "subject": "painter",
+                "verb": "putting",
+                "object": "coat",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "116": {
+        "prompt": "a child is playing with a toy building set and creating a tower",
+        "overlap": [
+            {
+                "subject": "child",
+                "verb": "playing",
+                "object": "toy",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "child",
+                "verb": "creating",
+                "object": "tower",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "117": {
+        "prompt": "a person is holding a bouquet of flowers and giving it to a loved one",
+        "overlap": [
+            {
+                "subject": "person",
+                "verb": "holding",
+                "object": "bouquet",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "person",
+                "verb": "giving",
+                "object": "it",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "118": {
+        "prompt": "a woman is speaking on the phone and pacing back and forth",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "woman",
+                "verb": "speaking",
+                "verb_type": "intransitive"
+            },
+            {
+                "subject": "woman",
+                "verb": "pacing",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": []
+    },
+    "119": {
+        "prompt": "a dog is sitting next to its owner and listening to commands",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "dog",
+                "verb": "sitting",
+                "verb_type": "intransitive"
+            },
+            {
+                "subject": "dog",
+                "verb": "listening",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "dog",
+                "spatial": "next to",
+                "entity": "owner"
+            }
+        ]
+    },
+    "120": {
+        "prompt": "a person is holding a backpack sprayer and spraying weeds in a garden",
+        "overlap": [
+            {
+                "subject": "person",
+                "verb": "holding",
+                "object": "sprayer",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "person",
+                "verb": "spraying",
+                "object": "weeds",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "121": {
+        "prompt": "a person is holding a pencil and sketching a portrait",
+        "overlap": [
+            {
+                "subject": "person",
+                "verb": "holding",
+                "object": "pencil",
+                "verb_type": "transitive"
+            },
+            {
+                "subject": "person",
+                "verb": "sketching",
+                "object": "portrait",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "122": {
+        "prompt": "the painter is creating a landscape painting on canvas",
+        "overlap": [
+            {
+                "subject": "painter",
+                "verb": "creating",
+                "object": "painting",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "123": {
+        "prompt": "a man is speaking to his boss about a project at work",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "man",
+                "verb": "speaking",
+                "verb_type": "intransitive"
+            }
+        ],
+        "spatial": []
+    },
+    "124": {
+        "prompt": "the zookeeper is feeding the animals in their care",
+        "overlap": [
+            {
+                "subject": "zookeeper",
+                "verb": "feeding",
+                "object": "animals",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [],
+        "spatial": []
+    },
+    "125": {
+        "prompt": "the soft pillow was on top of the hard rocking chair",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "pillow",
+                "verb": "was",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "soft",
+                "entity": "pillow"
+            },
+            {
+                "adjective": "hard",
+                "entity": "rocking chair"
+            },
+            {
+                "adjective": "rocking",
+                "entity": "chair"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "pillow",
+                "spatial": "on top of",
+                "entity": "chair"
+            }
+        ]
+    },
+    "126": {
+        "prompt": "the striped rug was on top of the tiled floor",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "rug",
+                "verb": "was",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "striped",
+                "entity": "rug"
+            },
+            {
+                "adjective": "tiled",
+                "entity": "floor"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "rug",
+                "spatial": "on top of",
+                "entity": "floor"
+            }
+        ]
+    },
+    "127": {
+        "prompt": "the fluffy cat was lying on the soft blanket",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "cat",
+                "verb": "lying",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "fluffy",
+                "entity": "cat"
+            },
+            {
+                "adjective": "soft",
+                "entity": "blanket"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "cat",
+                "spatial": "on",
+                "entity": "blanket"
+            }
+        ]
+    },
+    "128": {
+        "prompt": "the white cat is lying on the brown sofa",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "cat",
+                "verb": "lying",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "white",
+                "entity": "cat"
+            },
+            {
+                "adjective": "brown",
+                "entity": "sofa"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "cat",
+                "spatial": "on",
+                "entity": "sofa"
+            }
+        ]
+    },
+    "129": {
+        "prompt": "the black phone was resting on the silver charger",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "phone",
+                "verb": "resting",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "black",
+                "entity": "phone"
+            },
+            {
+                "adjective": "silver",
+                "entity": "charger"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "phone",
+                "spatial": "on",
+                "entity": "charger"
+            }
+        ]
+    },
+    "130": {
+        "prompt": "the silver fork was resting on the brown napkin",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "fork",
+                "verb": "resting",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "silver",
+                "entity": "fork"
+            },
+            {
+                "adjective": "brown",
+                "entity": "napkin"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "fork",
+                "spatial": "on",
+                "entity": "napkin"
+            }
+        ]
+    },
+    "131": {
+        "prompt": "the soft pink petals of the cherry blossom contrasted with the rough brown bark",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "soft",
+                "entity": "petals"
+            },
+            {
+                "adjective": "pink",
+                "entity": "petals"
+            },
+            {
+                "adjective": "rough",
+                "entity": "bark"
+            },
+            {
+                "adjective": "brown",
+                "entity": "bark"
+            }
+        ],
+        "spatial": []
+    },
+    "132": {
+        "prompt": "the rough brown bark of the tree contrasted with the smooth green leaves",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rough",
+                "entity": "bark"
+            },
+            {
+                "adjective": "brown",
+                "entity": "bark"
+            },
+            {
+                "adjective": "smooth",
+                "entity": "leaves"
+            },
+            {
+                "adjective": "green",
+                "entity": "leaves"
+            }
+        ],
+        "spatial": []
+    },
+    "133": {
+        "prompt": "the hot pink lipstick lay next to the shiny gold compact mirror",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "hot pink",
+                "entity": "lipstick"
+            },
+            {
+                "adjective": "shiny",
+                "entity": "compact mirror"
+            },
+            {
+                "adjective": "compact",
+                "entity": "mirror"
+            },
+            {
+                "adjective": "gold",
+                "entity": "compact mirror"
+            },
+            {
+                "adjective": "compact",
+                "entity": "mirror"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "lipstick",
+                "spatial": "next to",
+                "entity": "mirror"
+            }
+        ]
+    },
+    "134": {
+        "prompt": "the shiny silver watch lay next to the smooth black leather wallet",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "shiny",
+                "entity": "watch"
+            },
+            {
+                "adjective": "silver",
+                "entity": "watch"
+            },
+            {
+                "adjective": "smooth",
+                "entity": "wallet"
+            },
+            {
+                "adjective": "black",
+                "entity": "wallet"
+            },
+            {
+                "adjective": "leather",
+                "entity": "wallet"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "watch",
+                "spatial": "next to",
+                "entity": "wallet"
+            }
+        ]
+    },
+    "135": {
+        "prompt": "the soft yellow duckling swam next to the sleek black swan",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "duckling",
+                "verb": "swam",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "soft",
+                "entity": "duckling"
+            },
+            {
+                "adjective": "yellow",
+                "entity": "duckling"
+            },
+            {
+                "adjective": "sleek",
+                "entity": "swan"
+            },
+            {
+                "adjective": "black",
+                "entity": "swan"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "duckling",
+                "spatial": "next to",
+                "entity": "swan"
+            }
+        ]
+    },
+    "136": {
+        "prompt": "the rough brown boots contrasted with the soft white snow",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rough",
+                "entity": "boots"
+            },
+            {
+                "adjective": "brown",
+                "entity": "boots"
+            },
+            {
+                "adjective": "soft",
+                "entity": "snow"
+            },
+            {
+                "adjective": "white",
+                "entity": "snow"
+            }
+        ],
+        "spatial": []
+    },
+    "137": {
+        "prompt": "the spicy curry simmered on the hot stove and the cool plate",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "curry",
+                "verb": "simmered",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "spicy",
+                "entity": "curry"
+            },
+            {
+                "adjective": "hot",
+                "entity": "stove"
+            },
+            {
+                "adjective": "cool",
+                "entity": "plate"
+            }
+        ],
+        "spatial": []
+    },
+    "138": {
+        "prompt": "the comfortable armchair embraced the tired body and the hard wooden floor",
+        "overlap": [
+            {
+                "subject": "armchair",
+                "verb": "embraced",
+                "object": "body",
+                "verb_type": "transitive"
+            }
+        ],
+        "subset": [
+            {
+                "adjective": "comfortable",
+                "entity": "armchair"
+            },
+            {
+                "adjective": "tired",
+                "entity": "body"
+            },
+            {
+                "adjective": "hard",
+                "entity": "wooden floor"
+            }
+        ],
+        "spatial": []
+    },
+    "139": {
+        "prompt": "the crisp apple lay beside the rough stone and the silky fabric",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "crisp",
+                "entity": "apple"
+            },
+            {
+                "adjective": "rough",
+                "entity": "stone"
+            },
+            {
+                "adjective": "silky",
+                "entity": "fabric"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "apple",
+                "spatial": "beside",
+                "entity": "stone"
+            },
+            {
+                "subject": "apple",
+                "spatial": "beside",
+                "entity": "fabric"
+            }
+        ]
+    },
+    "140": {
+        "prompt": "the glossy apple sat next to the fuzzy peach and the prickly pear",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "glossy",
+                "entity": "apple"
+            },
+            {
+                "adjective": "fuzzy",
+                "entity": "peach"
+            },
+            {
+                "adjective": "prickly",
+                "entity": "pear"
+            }
+        ],
+        "spatial": [
+            {
+                "subject": "apple",
+                "spatial": "next to",
+                "entity": "peach"
+            },
+            {
+                "subject": "apple",
+                "spatial": "next to",
+                "entity": "pear"
+            }
+        ]
+    },
+    "141": {
+        "prompt": "the comfortable hammock swayed in the warm breeze and the cool shade",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "hammock",
+                "verb": "swayed",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "comfortable",
+                "entity": "hammock"
+            },
+            {
+                "adjective": "warm",
+                "entity": "breeze"
+            },
+            {
+                "adjective": "cool",
+                "entity": "shade"
+            }
+        ],
+        "spatial": []
+    },
+    "142": {
+        "prompt": "the fragrant flowers bloomed on the sturdy stem and the thorny bush",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "flowers",
+                "verb": "bloomed",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "fragrant",
+                "entity": "flowers"
+            },
+            {
+                "adjective": "sturdy",
+                "entity": "stem"
+            },
+            {
+                "adjective": "thorny",
+                "entity": "bush"
+            }
+        ],
+        "spatial": []
+    },
+    "143": {
+        "prompt": "the rough bark scraped against the soft skin and the delicate flower",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "rough",
+                "entity": "bark"
+            },
+            {
+                "adjective": "soft",
+                "entity": "skin"
+            },
+            {
+                "adjective": "delicate",
+                "entity": "flower"
+            }
+        ],
+        "spatial": []
+    },
+    "144": {
+        "prompt": "the smooth, rippled surface of the sand dunes undulated in the desert winds, a shifting landscape of natural wonder and awe",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "surface",
+                "verb": "undulated",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "smooth",
+                "entity": "surface"
+            },
+            {
+                "adjective": "rippled",
+                "entity": "surface"
+            },
+            {
+                "adjective": "shifting",
+                "entity": "landscape"
+            },
+            {
+                "adjective": "natural",
+                "entity": "wonder"
+            }
+        ],
+        "spatial": []
+    },
+    "145": {
+        "prompt": "the sharp, angular lines of the geometric sculpture were a study in contrast and form",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "sharp",
+                "entity": "lines"
+            },
+            {
+                "adjective": "angular",
+                "entity": "lines"
+            },
+            {
+                "adjective": "geometric",
+                "entity": "sculpture"
+            }
+        ],
+        "spatial": []
+    },
+    "146": {
+        "prompt": "the bold, striking patterns of the tiger's stripes blended seamlessly with the dappled light of the jungle, a creature of stealth and beauty",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "bold",
+                "entity": "patterns"
+            },
+            {
+                "adjective": "striking",
+                "entity": "patterns"
+            },
+            {
+                "adjective": "dappled",
+                "entity": "light"
+            }
+        ],
+        "spatial": []
+    },
+    "147": {
+        "prompt": "the sleek, black sports car sped down the winding country road, leaving a trail of dust in its wake",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "car",
+                "verb": "sped",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "sleek",
+                "entity": "car"
+            },
+            {
+                "adjective": "black",
+                "entity": "car"
+            },
+            {
+                "adjective": "winding",
+                "entity": "road"
+            },
+            {
+                "adjective": "country",
+                "entity": "road"
+            }
+        ],
+        "spatial": []
+    },
+    "148": {
+        "prompt": "the sharp, angular lines of the modern architecture contrasted with the natural landscape, a melding of human innovation and natural beauty",
+        "overlap": [],
+        "subset": [
+            {
+                "adjective": "sharp",
+                "entity": "lines"
+            },
+            {
+                "adjective": "angular",
+                "entity": "lines"
+            },
+            {
+                "adjective": "modern",
+                "entity": "architecture"
+            },
+            {
+                "adjective": "natural",
+                "entity": "landscape"
+            },
+            {
+                "adjective": "human",
+                "entity": "innovation"
+            },
+            {
+                "adjective": "natural",
+                "entity": "beauty"
+            }
+        ],
+        "spatial": []
+    },
+    "149": {
+        "prompt": "the smooth, cool surface of the river rocks were perfect for skipping across the water's surface",
+        "overlap": [],
+        "subset": [
+            {
+                "subject": "surface",
+                "verb": "were",
+                "verb_type": "intransitive"
+            },
+            {
+                "adjective": "smooth",
+                "entity": "surface"
+            },
+            {
+                "adjective": "cool",
+                "entity": "surface"
+            }
+        ],
+        "spatial": []
+    }
+}

@@ -1,0 +1,57 @@
+Given a caption: {}
+Specify the adjective and its object in the caption as (adjective, object)
+If there is not any adjective in the caption, just say "No adjective"
+
+Example:
+Caption: "a brown dog fetching a frisbee in a green park."
+1. (brown, dog)
+2. (green, park)
+
+Example:
+Caption: "a long necklace and a short earring"
+1. (long, necklace)
+2. (short, earring)
+
+Example:
+Caption: "a soft pillow is on top of the rocking chair"
+1. (soft, pillow)
+2. (rocking, chair)
+
+Example:
+Caption: "a metallic bracelet and a leather hat"
+1. (metallic, baracelet)
+2. (leather, hat)
+
+Example:
+Caption: "a person is wearing a hat and sunglasses while fishing"
+No adjective
+
+Example:
+Caption: "a desk on the right of a horse"
+No adjective
+
+Example:
+Caption: "the shiny silver watch lay next to the smooth black leather wallet"
+1. (shiny, watch)
+2. (silver, watch)
+3. (smooth, wallet)
+4. (black, wallet)
+5. (leather, wallet)
+
+Example:
+Caption: "a round pizza and a rectangular piece of lasagna"
+1. (round, pizza)
+2. (rectangular, piece of lasagna)
+
+Example:
+Caption: "a rubber band and a fabric blanket"
+1. (rubber, band)
+2. (fabric, blanket)
+
+Example:
+Caption: "a diamond pendant and a round locket"
+1. (diamond, pendant)
+2. (round, locket)
+
+
+Answer as concisely as possible.

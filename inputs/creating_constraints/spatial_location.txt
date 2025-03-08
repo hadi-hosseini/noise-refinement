@@ -1,0 +1,50 @@
+Given a caption: {}
+Specify the spatial location among objects in the caption as (object, spatial relation, object)
+If there is not any spatial relation in the caption, just say "No spatial"
+
+Example:
+Caption: "the striped rug was on top of the tiled floor"
+1. (rug, on top of, floor)
+
+Example:
+Caption: "a couple is enjoying a picnic in the park"
+1. (couple, in, park)
+
+Example:
+Caption: "a blue scooter is parked near a curb in front of a green vintage car"
+1. (scooter, near, curb)
+2. (scooter, in front of, car)
+
+Example:
+Caption: "the airplane is flying above the clouds."
+1. (airplane, above, clouds)
+
+Example:
+Caption: "a bird on the left of a clock"
+1. (bird, on the left of, clock)
+
+Example:
+Caption: "the black phone was resting on the silver charger"
+1. (phone, on, charger)
+
+Example:
+Caption: "the bear is near a lake"
+1. (bear, near, lake)
+
+Example:
+Caption: "a mouse on side of a bag"
+1. (mouse, on side of, bag)
+
+Example:
+Caption: "a small white kitchen with brown wood floor"
+No spatial
+
+Example:
+Caption: "a parent is comforting their child after a bad dream, holding them close and soothing their fears"
+No spatial
+
+Example:
+Caption: "an oval bathtub and a rectangular soap dish"
+No spatial
+
+Answer as concisely as possible.
