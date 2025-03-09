@@ -9,4 +9,14 @@ We present the codebase for our project for inference-time optimization and refi
 
 ## Installation
 
-Install the project via Conda using the provided ```requirements.yml``` file.
+Install the project via Conda using the provided ```environment.yml``` file.
+
+## Usage
+
+run the project using the following command:
+
+```
+python for_generation.py
+```
+
+You can change the hyperparameters in the ```config.py``` file under ```src``` folder.
